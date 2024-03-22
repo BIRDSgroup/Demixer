@@ -37,36 +37,40 @@ The output files resulting from preprocessing will be saved in the finaloutput/o
 ```
 python main_preprocess.py input_.vcf_file output_folder db_name AD_COV
 ```
-Once the preprocessing is done, run the CGS algorithm on the sample-SNP matrix using the executable file Demixer generated from the main.cpp file. It takes one input the output_folder containing the intermediate files. The model parameters $\theta$ of size $mxk$ and $\phi$ of size $kxn$ will be saved in n_m_z0.dat and n_z_t0.dat files respectively in the output_folder directory. The number of strains $k$ will be determined during preprocessing, $m$ represents the number of samples and $n$ represents the number of SNP-alleles. The proportions of the strains in the samples can be viewed in the finaloutput/output_folder/n_m_z0.txt file.
+Once the preprocessing is done, run the CGS algorithm on the sample-SNP matrix using the executable file Demixer generated from the main.cpp file. It takes one input, the output_folder containing the intermediate files. The model parameters $\theta$ of size $mxk$ and $\phi$ of size $kxn$ will be saved in n_m_z0.dat and n_z_t0.dat files respectively in the output_folder directory. The number of strains $k$ will be determined during preprocessing, $m$ represents the number of samples and $n$ represents the number of SNP-alleles. The proportions of the strains in the samples can be viewed in the finaloutput/output_folder/n_m_z0.txt file.
 ```
 ./Demixer finaloutput/output_folder
 ```
 Run the command ```chmod +x Demixer```, if running the above command for the first time.
 
-The folder finaloutput has the subfolders corresponding to each run of Demixer on different .vcf files. The code for mapping the strain-SNP distribution to the reference strains is available in Figures/postprocessing.ipynb. 
+The folder finaloutput has the subfolders corresponding to each run of Demixer on different .vcf files. After the running of CGS algorithm, the inferred parameters need to be postprocessed by running the following command. The output files resulting from postprocessing will be saved in the finaloutput/output_folder. The inferred proportions, lineage names, confidence and mixed/non-mixed call for each sample are saved in the files prop.csv, lineage.csv, confidence_new.csv  and Mixpred.csv respectively. Also the mode ($o_m$) and frequency of mode ($f_m$) for each sample determined using the SNP plot is saved in snp_plot_conf.csv respectively.
+
+```
+python postprocessing.py finaloutput/output_folder/
+```
 
 ### Testing new samples in .vcf file using CRyPTIC-trained parameters
-To test new samples, run the below command to generate the sample-SNP matrix. It takes 3 input parameters: input_.vcf_file, db_name and AD_COV. The intermediate files will be saved in finaloutput/test directory.
-
+To test new samples, run the below commands to generate the sample-SNP matrix, run CGS algorithm and postprocessing. It takes 3 input parameters: input_.vcf_file, db_name and AD_COV. The intermediate and output files will be saved in finaloutput/test directory.
 ```
 python test.py input_.vcf_file test db_name AD_COV
-```
-Once the intermediate files are generated, run the CGS algorithm using the executable file test_Demixer.
-
-```
-./test_Demixer
+./test_Demixer;
+python test_strain_ids.py finaloutput/test/
 ```
 Run the command ```chmod +x test_Demixer```, if running the above command for the first time.
 
 ### Generating executable code from .cpp file
+For generating the Demixer (training mode) executable file, the following command is run:
 
-For generating the test_Demixer executable file, the following command is run:
+```
+g++ -g -O4  main.cpp globals.cpp -std=c++11 -Wall -ggdb -pg -g3 -fopenmp -lgsl -lgslcblas  -funroll-loops -pg -Ofast -o Demixer
+```
+
+For generating the test_Demixer (testing mode) executable file, the following command is run:
 
 ```
 g++ -g -O4  test.cpp globals.cpp -std=c++11 -Wall -ggdb -pg -g3 -fopenmp -lgsl -lgslcblas  -funroll-loops -pg -Ofast -o test_Demixer
 ```
-
-
+Note that all the relavant codes are in the scripts folder and the above commands should be executed from within the scripts directory.
 
 ## Folder Description
 
