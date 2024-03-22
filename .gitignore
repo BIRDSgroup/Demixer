@@ -1,0 +1,9 @@
+*.dat
+*.vcf
+*n_m_z0.txt
+simulation/simulation2/db/snpmatrix.npy
+*.vcf
+*.vcf.gz
+scripts/finaloutput/Malawi_1963_onlyMAF/data.csv
+scripts/finaloutput/Cryptic_rerun/data.csv
+

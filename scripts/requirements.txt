@@ -1,0 +1,8 @@
+biopython=1.74
+matplotlib=3.2.1
+numpy=1.19.1
+pandas=1.3.1
+plotnine=0.6.0
+scikit_allel=1.3.2
+scikit_learn=0.23.1
+scipy=1.4.1

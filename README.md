@@ -1,0 +1,82 @@
+# Demixer: A multi-sample analysis tool to identify mixed infection
+
+This is the official repository of the Manuscript "Demixer: A guided approach to delineate different strains of a microbial species in a mixed-infection sample" by Brintha V P, and Manikandan Narayanan. 
+
+## License preamble 
+
+Copyright 2024 BIRDS Group, IIT Madras
+
+Demixer is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+Demixer is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License along with Demixer.  If not, see <https://www.gnu.org/licenses/>.
+
+## Installation
+
+See ```requirements.txt``` file for the list of dependencies. The C++ program is written in compliance with the C++11 standard.
+
+Downland all the required files using the below command.
+```
+git clone git@github.com:BIRDSgroup/Demixer.git
+```
+
+## Usage
+
+### Running Demixer on a set of samples using .vcf input
+Demixer takes a .vcf file as input and processes it to generate the Sample-SNP matrix. For preprocessing, the below command has to be run. It takes 4 input parameters. 
+- input_.vcf_file (multisample .vcf file)
+- output_folder (the folder name in which the intermediate files are to be saved)
+- db_name (the reference database name: tbprof, quanttb or covid)
+- AD_COV  (.vcf type: 2 [for calldata/AD] or 3[for calldata/COV]).
+
+The output files resulting from preprocessing will be saved in the finaloutput/output_folder. The sample-SNP matrix will be saved in Docs_int_onlySnpgap.dat file. By default, the new folder output_folder will be created within the finaloutput folder.
+```
+python main_preprocess.py input_.vcf_file output_folder db_name AD_COV
+```
+Once the preprocessing is done, run the CGS algorithm on the sample-SNP matrix using the executable file Demixer generated from the main.cpp file. It takes one input the output_folder containing the intermediate files. The model parameters $\theta$ of size $mxk$ and $\phi$ of size $kxn$ will be saved in n_m_z0.dat and n_z_t0.dat files respectively in the output_folder directory. The number of strains $k$ will be determined during preprocessing, $m$ represents the number of samples and $n$ represents the number of SNP-alleles. The proportions of the strains in the samples can be viewed in the finaloutput/output_folder/n_m_z0.txt file.
+```
+./Demixer finaloutput/output_folder
+```
+Run the command ```chmod +x Demixer```, if running the above command for the first time.
+
+The folder finaloutput has the subfolders corresponding to each run of Demixer on different .vcf files. The code for mapping the strain-SNP distribution to the reference strains is available in Figures/postprocessing.ipynb. 
+
+### Testing new samples in .vcf file using CRyPTIC-trained parameters
+To test new samples, run the below command to generate the sample-SNP matrix. It takes 3 input parameters: input_.vcf_file, db_name and AD_COV. The intermediate files will be saved in finaloutput/test directory.
+
+```
+python test.py input_.vcf_file test db_name AD_COV
+```
+Once the intermediate files are generated, run the CGS algorithm using the executable file test_Demixer.
+
+```
+./test_Demixer
+```
+Run the command ```chmod +x test_Demixer```, if running the above command for the first time.
+
+### Generating executable code from .cpp file
+
+For generating the test_Demixer executable file, the following command is run:
+
+```
+g++ -g -O4  test.cpp globals.cpp -std=c++11 -Wall -ggdb -pg -g3 -fopenmp -lgsl -lgslcblas  -funroll-loops -pg -Ofast -o test_Demixer
+```
+
+
+
+## Folder Description
+
+The [Figures](https://github.com/BIRDSgroup/Demixer/tree/main/Figures) folder has the codes for generating the figures in the manuscript. 
+
+The [scripts](https://github.com/BIRDSgroup/Demixer/tree/main/scripts) folder has the codes for running Demixer on a set of samples from .vcf file.
+
+The [simulation](https://github.com/BIRDSgroup/Demixer/tree/main/simulation) has the scripts and other files required for generating simulated data and running Demixer on those datasets.
+
+The [scripts/db](https://github.com/BIRDSgroup/Demixer/tree/main/scripts/db) folder has the reference database files related to TBprofiler, Quanttb, and COVID.
+
+The [scripts/finaloutput](https://github.com/BIRDSgroup/Demixer/tree/main/scripts/finaloutput) folder has the sub-folders containing the intermediate files related to each run. 
+

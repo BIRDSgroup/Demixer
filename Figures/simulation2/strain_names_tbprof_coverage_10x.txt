@@ -1,0 +1,1248 @@
+19 lineage4.3.4.1 lineage2.2 lineage4.6.1.2 lineage5
+3 lineage4.6.1.2 lineage4.1.1 lineagecap lineage3.1.2.1
+16 lineage3.1.2 lineage4.1.1.3.1 lineage4.4.1 lineage4.8.2
+1 lineage1.1.1.1 lineage4.6.1 lineage4.6.2.1 lineage1.1
+2 lineage1.2.2.1 lineage4.4.1 lineage4.1.1 lineage5
+20 lineage5 lineage4.2.1 lineage1.1 lineage4.3.2.1
+15 lineage4.3.2.1 lineage4.3.4 lineage4.3.2.1 lineage4.6.5
+14 lineage2 lineage2.1 lineage2.2.1 lineage2.1
+4 lineage1.1.1 lineage4.1.1.1 lineage4.1 lineage1.1.3.2
+18 lineage4.1 lineage4.2.2 lineage4.1.1.1 lineage4.8.2
+9 lineage4.3.2 lineage4.8 lineage1.1.3.1 lineage4.2.1
+11 lineage4.6.2 lineage3.1.2.1 lineage3.1.2.1 lineage4.3.1.1
+17 lineage4.8.1 lineage4.3.4.2 lineage4.2.2.2 lineage4.1.3
+13 lineage1.1.3.3 lineagecap lineage3.1.1 lineage4.2.1
+12 lineage4.8.3 lineagebov lineage4.1.1.1 lineage4.1.2
+7 lineage2 lineage4.8 lineage4.1.1 lineage4.3.1
+8 lineage4.6.2 lineage1.1.3.3 lineage4.4.1.1.1 lineage4.1.1.3
+5 lineage4.3.1 lineage2 lineage4.1.2 lineage4.2
+10 lineage4.2.2 lineage4.3.4.1 lineage4.6.4 lineage6
+6 lineage4.3 lineage4.8.3 lineage4.2.2.2 lineage4.4.2
+21 lineage3.1.2 lineage1.1.3.2 lineage4.3.3 lineage4.1.1.1
+35 lineage2 lineage4.6.2 lineage4.6.4 lineage4.6.1
+32 lineage4.3.4.2.1 lineage4.3.2 lineage4.3.4.1 lineage4.6.2.2
+25 lineage2.2.1.1 lineageoryg lineage1.1.1.1 lineage8
+23 lineage4.8 lineage4.1 lineageoryg lineage1.1.3
+22 lineage1.2.1 lineage4.3.2.1 lineage4.6.2.2 lineage4.2.2.2
+24 lineage4.6.1.2 lineage4.8 lineage9 lineage4.3.2
+33 lineage4.5 lineage2.2.1.1 lineage4.1.1.3 lineage4.8.1
+37 lineage4.3.1.1 lineage3.1.2.2 lineage1.2.2 lineage2.1
+36 lineage4.8 lineage4.3 lineage4.4.1.1 lineage1.2.1
+40 lineage1.1.1 lineage4.1.3 lineagecap lineage4.1
+39 lineage4.6 lineage1.2.1 lineage4.4.1.2 lineage4.8
+38 lineage4.6.1 lineage4.3.2.1 lineage1.1.1 lineage4.2.2
+26 lineage8 lineage4.9.1 lineage4.1.1.2 lineage4.3.1.1
+34 lineage4.8.3 lineage1.1.2 lineageoryg lineage4.3.1
+30 lineage3.1.2.1 lineage1.2.1 lineage4.8.2 lineage1
+29 lineage5 lineage4.1.1 lineage2.2.2 lineage4.2.2.1
+31 lineage3.1.1 lineage4.6.2 lineage4.3.4 lineage3.1.2.1
+27 lineage2.2 lineage4.3.4.2.1 lineage1.1.3.1 lineage4.1.1.2
+28 lineage1.1.1.1 lineage2 lineage4.8.1 lineage2.2.1
+41 lineage4.6.1.1 lineage4.6.2.1 lineage9 lineage1.2.2.1
+45 lineage4.4.1.1.1 lineage4.6.2 lineage1.1.3.2 lineage4.1.2
+43 lineage4.3.3 lineage4.2 lineage2.2 lineage1.1.3.1
+42 lineage4.8.2 lineage4.3.4 lineage1.1.1 lineage4.2.2
+44 lineage4.4.1.2 lineage2.2 lineage3.1.1 lineage4.6.2
+49 lineage4.6.1 lineage4.3.1 lineage4.4.1.1.1 lineage4.3.4.2
+46 lineage4.3.1 lineage4.6.3 lineage1 lineage1.1.3.1
+47 lineage5 lineage4.2.2 lineage4.1.2.1.1 lineage4.1.2
+51 lineage1.1.1.1 lineage4.9.1 lineage6 lineage6
+50 lineage2 lineage4.3.1 lineage1.1.1.1 lineage4.5
+48 lineage4.2.1 lineage2.2.1 lineage4.1.2.1.1 lineage3
+52 lineage4.2 lineage4.3.2.1 lineage4.6.2.1 lineage4.4.1.1
+53 lineage2.2 lineage2 lineage2.2.1.1 lineage4.2.1.1
+59 lineage1.1 lineage4.1 lineage4.1.1.2 lineage3.1.2
+54 lineageoryg lineage4.3.3 lineage4.4.2 lineage4.8.3
+60 lineage4.3.4.2 lineage4.2 lineage4.6.1.1 lineage4.3.4.2.1
+57 lineage4.2.2.2 lineage4.1.1.3.1 lineage4.4.2 lineage4.2.2
+55 lineage6 lineage4.4.2 lineage4.6.3 lineage4.3.4.2.1
+56 lineage4.4.1 lineage4.1.1.3 lineage1.2.1 lineage4.6.5
+58 lineage4.1.2.1 lineage1.1.2 lineage3.1.2.1 lineage4.6.4
+61 lineage1.1.1.1 lineage4.6.2.2 lineage1.1.3.3 lineage4.3.3
+71 lineage4.6.1 lineage4.2.2.2 lineage4.8.3 lineage4.3
+63 lineage4.8 lineage4.1.4 lineage4.5 lineage9
+72 lineage6 lineage4.1.2.1.1 lineage4.8 lineage4.1.1
+62 lineage4.6.2.1 lineage7 lineage4.1 lineage4.4.1.1.1
+64 lineage4.4.2 lineage4.4.1.1 lineageoryg lineage1.1.3.3
+65 lineage4.8.3 lineage4.6.1.2 lineage4.2.2.1 lineage3.1.2.2
+66 lineage1.1.3.2 lineage1 lineage3.1.2.2 lineage2.2.2
+69 lineage4.4.1 lineage2 lineage4.6.4 lineage4.2.2.1
+68 lineage4.1.1.2 lineage2.2.1.1 lineage4.2.2.1 lineage4.6
+67 lineage4.1.1.3.1 lineage4.1.1 lineage1.1 lineage4.1.1.1
+70 lineage4.3.2.1 lineage4.6.5 lineage4.6.3 lineage4.2.2.2
+73 lineage4.4.1.1.1 lineage4.1.3 lineage1.2.2 lineagebov
+74 lineage6 lineage4.6.1.2 lineage4.3 lineage4.4.1
+80 lineage4.4.1.1 lineage4.3.2.1 lineage4.6.2.1 lineagecap
+79 lineage1.1.3 lineagecap lineage4.2.2.2 lineage4.4.1.1
+77 lineage4.8.2 lineage2 lineage4.1.3 lineage4.3.2
+75 lineage7 lineage1.1.1 lineage3.1.2 lineage4.4.1
+78 lineage1.2.2 lineage4.3.2.1 lineage2.2 lineage4.8
+76 lineage1.2.2.1 lineage1.1.3 lineage4.1 lineage1.1.3
+81 lineage4.8.2 lineage4.3.1.1 lineage2.2.2 lineage2.2
+82 lineage4.3.4.2.1 lineageoryg lineage8 lineage4.3.3
+83 lineage3.1.1 lineage4.3.1 lineage3.1.1 lineage4.3.1.1
+84 lineage2.2.1.1 lineage4.4.1.2 lineage1.2.2.1 lineage3
+85 lineage1.1.3.3 lineage4.6.4 lineage4.3.1 lineage4.6.2.1
+87 lineage4.1.3 lineage2.2.1.1 lineage4.1.2 lineage9
+86 lineageoryg lineage4.6.4 lineage4.4.2 lineage4.1
+88 lineageoryg lineage4.3.1.1 lineage4.2.2 lineage4.1.1.1
+89 lineage4.8.2 lineage4.7 lineage1.2.1 lineage1.2.2.1
+90 lineage2 lineage4.6 lineage4.4 lineage1
+91 lineage4.2.1.1 lineage8 lineage4.1.1.3.1 lineage3.1.2.1
+92 lineage4.4 lineage2.1 lineage4.4.1 lineage2.2.2
+97 lineage4.8.1 lineage4.4.1 lineage4.8.2 lineage1.2.2.1
+96 lineage4.4.1.1 lineage4.6.4 lineage3 lineage1.1.2
+94 lineage4.1.1.3.1 lineage4.1 lineage4.3.4.2 lineage4.1.1.3
+95 lineage4.6.1 lineage2.2 lineage3.1.2.2 lineage1.1.1
+98 lineage4.3.2 lineageoryg lineageoryg lineage4.9.1
+93 lineage4.3 lineage4.6.2.2 lineage4.3.4.2.1 lineage1.1.3.1
+100 lineage2.2.1.1 lineage4.6 lineage4.1.1 lineage4.1.3
+99 lineage4.4 lineage4.8 lineage4.5 lineage4.3.4.1
+101 lineage4.3.4.1 lineage4.1 lineage4.8.1 lineage2.1
+102 lineage4.3.4 lineage4.6.1 lineage4.1.4 lineage4.1.4
+103 lineage4.6 lineage3.1.2.1 lineage4.1 lineage3
+104 lineage4.5 lineage3.1.2.2 lineage4.6.1 lineage4.8.2
+105 lineage4.4.2 lineage3.1.2.1 lineage1.1.3.2 lineage6
+106 lineage1.2.2.1 lineage4.6.5 lineage4.7 lineage4.3.4.2
+107 lineage4.5 lineage4.9.1 lineage4.4.1.1.1 lineage4.4.1.2
+108 lineage4.3.1 lineage4.9.1 lineage4.1.2.1.1 lineage4.1.1.2
+109 lineage4.4.1.2 lineage4.8.1 lineage1.1.3.3 lineage4.4
+110 lineage4.1.1 lineage2.2.2 lineage1.1.3.1 lineage2.2.2
+111 lineage1.1.3.3 lineage1.1.3.1 lineage4.2.1 lineagecap
+112 lineage4.1.2.1.1 lineage4.6.2 lineage4.4.1.1.1 lineage4.1.3
+113 lineage4.2.2.1 lineage1.1.3 lineage5 lineage3.1.2.2
+120 lineage4.6.3 lineage4.1.2.1.1 lineage4.4.1.1 lineageoryg
+115 lineage4.6.1.1 lineage2.2.2 lineage4.9.1 lineage1.1
+114 lineage1.2.2 lineage4.5 lineage1.2.2 lineage2.2
+118 lineage1.1 lineage4.2.2 lineage4.1.3 lineage4.3.4.2
+119 lineage1.1.3.1 lineage4.4.1 lineage4.3.2.1 lineage3.1.1
+122 lineage1 lineage4.6.2.2 lineage4.8 lineage4.6.5
+117 lineage4.2 lineage1.1 lineage4.2.1.1 lineage4.1.3
+116 lineage4.1.1 lineage4.1.2.1 lineage4.9.1 lineage3.1.1
+121 lineage8 lineage4.4.1.2 lineage4.4.1.1 lineage4.1.1.3
+123 lineage4.4.1.2 lineage4.1.1.2 lineage2.2 lineage4.1.3
+124 lineage4.3.2.1 lineage4.1 lineage5 lineage4.6.2.2
+125 lineage4.3.4.1 lineage4.3.2.1 lineage4.1.1.3.1 lineage4.2.1.1
+126 lineage6 lineage5 lineage1.2.2.1 lineage1.1.3.2
+127 lineage4.4.1.1.1 lineage2.2.1.1 lineage1.1.3 lineage4.1.1.3
+128 lineage4.6.1 lineage4.6.1.1 lineage6 lineage1.1.1.1
+129 lineage2.2 lineage1.1.3.2 lineage4.2.2 lineage4.3.2.1
+130 lineage4.1.4 lineage2.2.1.1 lineage2.2 lineage4.1.2
+131 lineage4.4.1.1 lineage4.6.1.1 lineage4.3.2.1 lineage4.1.2.1
+132 lineage3.1.2 lineage2 lineage4.1.1.3.1 lineage4.6.3
+135 lineage1.1 lineage4.4.1 lineage4.6.4 lineage4.1.1.3
+134 lineage3.1.2.1 lineage4.4.1.2 lineage4.2.1 lineage1.1.3.2
+136 lineage4.4.2 lineage1.2.2 lineage4.2.1 lineage3
+142 lineage1.1.3.3 lineage4.2.2.2 lineage4.3.2 lineage4.3.4.2
+139 lineage4.4.1.1 lineage1.1.3 lineage4.6.1.2 lineage9
+137 lineage4.6.3 lineage4.8.3 lineage4.2.1 lineage4.1.1.1
+133 lineage4.1.4 lineage1.1.1.1 lineage4.3.2 lineage4.4.1.2
+144 lineage4.9.1 lineage5 lineage4.4.1.2 lineage4.3
+143 lineage4.2.2.1 lineagebov lineage4.1.1.1 lineage4.6.2.2
+140 lineage4.3.1 lineage4.1.2 lineage1.1.3.3 lineage4.8.1
+138 lineage1 lineage4.1 lineage4.3.2 lineage1.2.2.1
+145 lineagebov lineage4.1.2.1.1 lineage4.6.1.1 lineage4.6.5
+141 lineage4.9.1 lineage4.2.2.1 lineage4.3.4.2.1 lineage1.1.3
+146 lineage6 lineage3 lineage3 lineage4.6.5
+147 lineage4.8 lineage4.3.3 lineage3.1.2 lineageoryg
+148 lineage4.2.2 lineage1.1.3.3 lineage4.2.1 lineage4.3.1.1
+149 lineage1.1.1.1 lineage4.4 lineage8 lineage5
+150 lineage4.1.2.1.1 lineage1.1.2 lineage3 lineage4.2.1.1
+151 lineage4.1.3 lineagecap lineage4.6.2 lineage4.1.2.1
+152 lineage6 lineage4.5 lineage6 lineage4.1.2
+153 lineage4.1.1.1 lineage4.4.1 lineage4.1.3 lineage4.4.1.1.1
+154 lineagecap lineage4.4 lineage1.1.3.2 lineage4.3.3
+156 lineage4.9.1 lineage4.6.1.2 lineage4.7 lineage9
+157 lineage3.1.1 lineage4.4.1 lineage4.1.1.3 lineage2.2.1
+155 lineage4.8.1 lineage4.6.2 lineage4.2 lineage4.6
+160 lineage4.4.1.2 lineage4.3.1.1 lineage1.1.1.1 lineage2.2
+158 lineage4.2.2.1 lineage4.2.2.2 lineage4.9.1 lineage4.3.4
+165 lineage4.6.4 lineage4.1.3 lineage4.6.3 lineage4.6.1
+159 lineage4.2 lineage3.1.2.2 lineage4.3.1 lineage1.1.1
+162 lineage4.1.1 lineage1.1.1 lineage1.1.1.1 lineage4.3.3
+168 lineage2.2.1.1 lineage4.9.1 lineage4.3.2 lineage4.6.1
+163 lineage1.1.3.3 lineage4.1.2.1.1 lineage2.1 lineage7
+167 lineage3.1.2.1 lineage1.1.1 lineage4.9.1 lineage7
+166 lineage4.1.1.3 lineage1.1.2 lineage4.8 lineage3
+164 lineage4.3.2 lineage4.2.2.2 lineage4.4.2 lineage1.1.3
+169 lineage4.3.4.1 lineage4.2.1 lineage4.6.4 lineage4.4.1.1.1
+170 lineage1.2.2 lineage2.2.1 lineage4.1.4 lineage4.6.2
+161 lineage4.6.1 lineage4.1.1 lineage4.2.2.1 lineage1.1.3
+171 lineage4.3.4.1 lineage4.4 lineage9 lineage4.6.2
+172 lineagecap lineage4.6.2.1 lineage4.2.2 lineage4.3.1.1
+173 lineage3 lineage4.4.1.2 lineage3.1.2.1 lineage9
+174 lineage4.1.2.1.1 lineage4.1 lineage4.4.1.1 lineage1.2.2
+175 lineage4.2.1 lineage4.4.1.1.1 lineage3.1.1 lineage1.1.3.3
+177 lineage4.9.1 lineage3.1.2 lineage4.1.2.1 lineage4.7
+178 lineage4.2.2.1 lineage9 lineage4.1.1.3 lineagecap
+176 lineage4.3.4.2 lineage4.4 lineageoryg lineagebov
+180 lineage4.8.3 lineage9 lineage4.4.1.1.1 lineage4.3.1.1
+181 lineage2.2.1 lineage8 lineage1.1.2 lineage1.2.1
+182 lineage4.8 lineage4.3.4.2.1 lineage4.2.2 lineage1
+187 lineage7 lineage4.3.3 lineage4.1.4 lineage1.2.2
+179 lineage4.2.2 lineage1.1.3.1 lineage4.6.1.1 lineage4.3.4
+190 lineage3.1.1 lineage4.5 lineage7 lineage2.2.2
+186 lineage8 lineage4.2.2.1 lineage1.1.3.2 lineage1.1.3.2
+185 lineage2.2.1.1 lineage4.3.2 lineage4.1.3 lineage4.4.1
+189 lineage4.6.3 lineage4.2.1.1 lineage8 lineage4.3.4.1
+184 lineage1.1.1.1 lineage4.2.2 lineage4.4.1.2 lineage1.1.3.1
+191 lineage4.4.1.2 lineage2.2.1.1 lineage6 lineage4.3.4
+188 lineage3.1.1 lineage4.2.1 lineageoryg lineage1
+183 lineage1.2.2 lineage4.3.2.1 lineage4.1.1.2 lineage2.2.2
+192 lineage4.4 lineage4.9.1 lineage1.1.2 lineage1.1.3.2
+193 lineage4.4.2 lineage3.1.2 lineage4.9.1 lineage4.9.1
+194 lineage4.1.1.1 lineage3.1.2.1 lineage1.1 lineage4.3.4
+195 lineage8 lineage4.3.1.1 lineage6 lineage4.1.2
+196 lineage4.3.4.2.1 lineage4.1.2.1.1 lineage4.2.1 lineage1.2.2.1
+197 lineage4.1.1 lineage2.1 lineage4.3.4.1 lineage2.1
+198 lineage4.6 lineage4.6.2.1 lineage4.6.1.2 lineage4.1.1.1
+199 lineage4.1.1.2 lineage6 lineage9 lineage4.1.1
+200 lineage4.3.2 lineage4.3.2.1 lineage4.6.2.1 lineage4.2.1.1
+3 lineage4.6.1.2 lineage4.1.1 lineagecap lineage3.1.2.1
+1 lineage1.1.1.1 lineage4.6.1 lineage4.6.2.1 lineage1.1
+14 lineage2 lineage2.1 lineage2.2.1 lineage2.1
+2 lineage1.2.2.1 lineage4.4.1 lineage4.1.1 lineage5
+4 lineage1.1.1 lineage4.1.1.1 lineage4.1 lineage1.1.3.2
+17 lineage4.8.1 lineage4.3.4.2 lineage4.2.2.2 lineage4.1.3
+16 lineage3.1.2 lineage4.1.1.3.1 lineage4.4.1 lineage4.8.2
+8 lineage4.6.2 lineage1.1.3.3 lineage4.4.1.1.1 lineage4.1.1.3
+5 lineage4.3.1 lineage2 lineage4.1.2 lineage4.2
+20 lineage5 lineage4.2.1 lineage1.1 lineage4.3.2.1
+19 lineage4.3.4.1 lineage2.2 lineage4.6.1.2 lineage5
+11 lineage4.6.2 lineage3.1.2.1 lineage3.1.2.1 lineage4.3.1.1
+13 lineage1.1.3.3 lineagecap lineage3.1.1 lineage4.2.1
+18 lineage4.1 lineage4.2.2 lineage4.1.1.1 lineage4.8.2
+12 lineage4.8.3 lineagebov lineage4.1.1.1 lineage4.1.2
+7 lineage2 lineage4.8 lineage4.1.1 lineage4.3.1
+9 lineage4.3.2 lineage4.8 lineage1.1.3.1 lineage4.2.1
+6 lineage4.3 lineage4.8.3 lineage4.2.2.2 lineage4.4.2
+15 lineage4.3.2.1 lineage4.3.4 lineage4.3.2.1 lineage4.6.5
+10 lineage4.2.2 lineage4.3.4.1 lineage4.6.4 lineage6
+22 lineage1.2.1 lineage4.3.2.1 lineage4.6.2.2 lineage4.2.2.2
+23 lineage4.8 lineage4.1 lineageoryg lineage1.1.3
+21 lineage3.1.2 lineage1.1.3.2 lineage4.3.3 lineage4.1.1.1
+30 lineage3.1.2.1 lineage1.2.1 lineage4.8.2 lineage1
+28 lineage1.1.1.1 lineage2 lineage4.8.1 lineage2.2.1
+27 lineage2.2 lineage4.3.4.2.1 lineage1.1.3.1 lineage4.1.1.2
+26 lineage8 lineage4.9.1 lineage4.1.1.2 lineage4.3.1.1
+29 lineage5 lineage4.1.1 lineage2.2.2 lineage4.2.2.1
+25 lineage2.2.1.1 lineageoryg lineage1.1.1.1 lineage8
+24 lineage4.6.1.2 lineage4.8 lineage9 lineage4.3.2
+31 lineage3.1.1 lineage4.6.2 lineage4.3.4 lineage3.1.2.1
+34 lineage4.8.3 lineage1.1.2 lineageoryg lineage4.3.1
+40 lineage1.1.1 lineage4.1.3 lineagecap lineage4.1
+36 lineage4.8 lineage4.3 lineage4.4.1.1 lineage1.2.1
+32 lineage4.3.4.2.1 lineage4.3.2 lineage4.3.4.1 lineage4.6.2.2
+38 lineage4.6.1 lineage4.3.2.1 lineage1.1.1 lineage4.2.2
+39 lineage4.6 lineage1.2.1 lineage4.4.1.2 lineage4.8
+37 lineage4.3.1.1 lineage3.1.2.2 lineage1.2.2 lineage2.1
+33 lineage4.5 lineage2.2.1.1 lineage4.1.1.3 lineage4.8.1
+35 lineage2 lineage4.6.2 lineage4.6.4 lineage4.6.1
+41 lineage4.6.1.1 lineage4.6.2.1 lineage9 lineage1.2.2.1
+43 lineage4.3.3 lineage4.2 lineage2.2 lineage1.1.3.1
+42 lineage4.8.2 lineage4.3.4 lineage1.1.1 lineage4.2.2
+44 lineage4.4.1.2 lineage2.2 lineage3.1.1 lineage4.6.2
+47 lineage5 lineage4.2.2 lineage4.1.2.1.1 lineage4.1.2
+49 lineage4.6.1 lineage4.3.1 lineage4.4.1.1.1 lineage4.3.4.2
+45 lineage4.4.1.1.1 lineage4.6.2 lineage1.1.3.2 lineage4.1.2
+51 lineage1.1.1.1 lineage4.9.1 lineage6 lineage6
+48 lineage4.2.1 lineage2.2.1 lineage4.1.2.1.1 lineage3
+50 lineage2 lineage4.3.1 lineage1.1.1.1 lineage4.5
+46 lineage4.3.1 lineage4.6.3 lineage1 lineage1.1.3.1
+52 lineage4.2 lineage4.3.2.1 lineage4.6.2.1 lineage4.4.1.1
+57 lineage4.2.2.2 lineage4.1.1.3.1 lineage4.4.2 lineage4.2.2
+54 lineageoryg lineage4.3.3 lineage4.4.2 lineage4.8.3
+56 lineage4.4.1 lineage4.1.1.3 lineage1.2.1 lineage4.6.5
+53 lineage2.2 lineage2 lineage2.2.1.1 lineage4.2.1.1
+58 lineage4.1.2.1 lineage1.1.2 lineage3.1.2.1 lineage4.6.4
+60 lineage4.3.4.2 lineage4.2 lineage4.6.1.1 lineage4.3.4.2.1
+59 lineage1.1 lineage4.1 lineage4.1.1.2 lineage3.1.2
+55 lineage6 lineage4.4.2 lineage4.6.3 lineage4.3.4.2.1
+61 lineage1.1.1.1 lineage4.6.2.2 lineage1.1.3.3 lineage4.3.3
+63 lineage4.8 lineage4.1.4 lineage4.5 lineage9
+62 lineage4.6.2.1 lineage7 lineage4.1 lineage4.4.1.1.1
+64 lineage4.4.2 lineage4.4.1.1 lineageoryg lineage1.1.3.3
+65 lineage4.8.3 lineage4.6.1.2 lineage4.2.2.1 lineage3.1.2.2
+67 lineage4.1.1.3.1 lineage4.1.1 lineage1.1 lineage4.1.1.1
+66 lineage1.1.3.2 lineage1 lineage3.1.2.2 lineage2.2.2
+70 lineage4.3.2.1 lineage4.6.5 lineage4.6.3 lineage4.2.2.2
+69 lineage4.4.1 lineage2 lineage4.6.4 lineage4.2.2.1
+68 lineage4.1.1.2 lineage2.2.1.1 lineage4.2.2.1 lineage4.6
+71 lineage4.6.1 lineage4.2.2.2 lineage4.8.3 lineage4.3
+72 lineage6 lineage4.1.2.1.1 lineage4.8 lineage4.1.1
+75 lineage7 lineage1.1.1 lineage3.1.2 lineage4.4.1
+73 lineage4.4.1.1.1 lineage4.1.3 lineage1.2.2 lineagebov
+79 lineage1.1.3 lineagecap lineage4.2.2.2 lineage4.4.1.1
+78 lineage1.2.2 lineage4.3.2.1 lineage2.2 lineage4.8
+80 lineage4.4.1.1 lineage4.3.2.1 lineage4.6.2.1 lineagecap
+77 lineage4.8.2 lineage2 lineage4.1.3 lineage4.3.2
+76 lineage1.2.2.1 lineage1.1.3 lineage4.1 lineage1.1.3
+74 lineage6 lineage4.6.1.2 lineage4.3 lineage4.4.1
+81 lineage4.8.2 lineage4.3.1.1 lineage2.2.2 lineage2.2
+82 lineage4.3.4.2.1 lineageoryg lineage8 lineage4.3.3
+83 lineage3.1.1 lineage4.3.1 lineage3.1.1 lineage4.3.1.1
+84 lineage2.2.1.1 lineage4.4.1.2 lineage1.2.2.1 lineage3
+85 lineage1.1.3.3 lineage4.6.4 lineage4.3.1 lineage4.6.2.1
+87 lineage4.1.3 lineage2.2.1.1 lineage4.1.2 lineage9
+86 lineageoryg lineage4.6.4 lineage4.4.2 lineage4.1
+88 lineageoryg lineage4.3.1.1 lineage4.2.2 lineage4.1.1.1
+90 lineage2 lineage4.6 lineage4.4 lineage1
+91 lineage4.2.1.1 lineage8 lineage4.1.1.3.1 lineage3.1.2.1
+89 lineage4.8.2 lineage4.7 lineage1.2.1 lineage1.2.2.1
+92 lineage4.4 lineage2.1 lineage4.4.1 lineage2.2.2
+93 lineage4.3 lineage4.6.2.2 lineage4.3.4.2.1 lineage1.1.3.1
+94 lineage4.1.1.3.1 lineage4.1 lineage4.3.4.2 lineage4.1.1.3
+95 lineage4.6.1 lineage2.2 lineage3.1.2.2 lineage1.1.1
+100 lineage2.2.1.1 lineage4.6 lineage4.1.1 lineage4.1.3
+99 lineage4.4 lineage4.8 lineage4.5 lineage4.3.4.1
+96 lineage4.4.1.1 lineage4.6.4 lineage3 lineage1.1.2
+97 lineage4.8.1 lineage4.4.1 lineage4.8.2 lineage1.2.2.1
+98 lineage4.3.2 lineageoryg lineageoryg lineage4.9.1
+102 lineage4.3.4 lineage4.6.1 lineage4.1.4 lineage4.1.4
+101 lineage4.3.4.1 lineage4.1 lineage4.8.1 lineage2.1
+103 lineage4.6 lineage3.1.2.1 lineage4.1 lineage3
+104 lineage4.5 lineage3.1.2.2 lineage4.6.1 lineage4.8.2
+105 lineage4.4.2 lineage3.1.2.1 lineage1.1.3.2 lineage6
+107 lineage4.5 lineage4.9.1 lineage4.4.1.1.1 lineage4.4.1.2
+106 lineage1.2.2.1 lineage4.6.5 lineage4.7 lineage4.3.4.2
+108 lineage4.3.1 lineage4.9.1 lineage4.1.2.1.1 lineage4.1.1.2
+109 lineage4.4.1.2 lineage4.8.1 lineage1.1.3.3 lineage4.4
+110 lineage4.1.1 lineage2.2.2 lineage1.1.3.1 lineage2.2.2
+111 lineage1.1.3.3 lineage1.1.3.1 lineage4.2.1 lineagecap
+112 lineage4.1.2.1.1 lineage4.6.2 lineage4.4.1.1.1 lineage4.1.3
+114 lineage1.2.2 lineage4.5 lineage1.2.2 lineage2.2
+115 lineage4.6.1.1 lineage2.2.2 lineage4.9.1 lineage1.1
+113 lineage4.2.2.1 lineage1.1.3 lineage5 lineage3.1.2.2
+116 lineage4.1.1 lineage4.1.2.1 lineage4.9.1 lineage3.1.1
+117 lineage4.2 lineage1.1 lineage4.2.1.1 lineage4.1.3
+119 lineage1.1.3.1 lineage4.4.1 lineage4.3.2.1 lineage3.1.1
+122 lineage1 lineage4.6.2.2 lineage4.8 lineage4.6.5
+125 lineage4.3.4.1 lineage4.3.2.1 lineage4.1.1.3.1 lineage4.2.1.1
+118 lineage1.1 lineage4.2.2 lineage4.1.3 lineage4.3.4.2
+121 lineage8 lineage4.4.1.2 lineage4.4.1.1 lineage4.1.1.3
+120 lineage4.6.3 lineage4.1.2.1.1 lineage4.4.1.1 lineageoryg
+128 lineage4.6.1 lineage4.6.1.1 lineage6 lineage1.1.1.1
+123 lineage4.4.1.2 lineage4.1.1.2 lineage2.2 lineage4.1.3
+124 lineage4.3.2.1 lineage4.1 lineage5 lineage4.6.2.2
+127 lineage4.4.1.1.1 lineage2.2.1.1 lineage1.1.3 lineage4.1.1.3
+126 lineage6 lineage5 lineage1.2.2.1 lineage1.1.3.2
+130 lineage4.1.4 lineage2.2.1.1 lineage2.2 lineage4.1.2
+129 lineage2.2 lineage1.1.3.2 lineage4.2.2 lineage4.3.2.1
+131 lineage4.4.1.1 lineage4.6.1.1 lineage4.3.2.1 lineage4.1.2.1
+132 lineage3.1.2 lineage2 lineage4.1.1.3.1 lineage4.6.3
+133 lineage4.1.4 lineage1.1.1.1 lineage4.3.2 lineage4.4.1.2
+135 lineage1.1 lineage4.4.1 lineage4.6.4 lineage4.1.1.3
+134 lineage3.1.2.1 lineage4.4.1.2 lineage4.2.1 lineage1.1.3.2
+136 lineage4.4.2 lineage1.2.2 lineage4.2.1 lineage3
+137 lineage4.6.3 lineage4.8.3 lineage4.2.1 lineage4.1.1.1
+139 lineage4.4.1.1 lineage1.1.3 lineage4.6.1.2 lineage9
+140 lineage4.3.1 lineage4.1.2 lineage1.1.3.3 lineage4.8.1
+138 lineage1 lineage4.1 lineage4.3.2 lineage1.2.2.1
+143 lineage4.2.2.1 lineagebov lineage4.1.1.1 lineage4.6.2.2
+141 lineage4.9.1 lineage4.2.2.1 lineage4.3.4.2.1 lineage1.1.3
+142 lineage1.1.3.3 lineage4.2.2.2 lineage4.3.2 lineage4.3.4.2
+145 lineagebov lineage4.1.2.1.1 lineage4.6.1.1 lineage4.6.5
+144 lineage4.9.1 lineage5 lineage4.4.1.2 lineage4.3
+151 lineage4.1.3 lineagecap lineage4.6.2 lineage4.1.2.1
+152 lineage6 lineage4.5 lineage6 lineage4.1.2
+147 lineage4.8 lineage4.3.3 lineage3.1.2 lineageoryg
+146 lineage6 lineage3 lineage3 lineage4.6.5
+148 lineage4.2.2 lineage1.1.3.3 lineage4.2.1 lineage4.3.1.1
+149 lineage1.1.1.1 lineage4.4 lineage8 lineage5
+150 lineage4.1.2.1.1 lineage1.1.2 lineage3 lineage4.2.1.1
+153 lineage4.1.1.1 lineage4.4.1 lineage4.1.3 lineage4.4.1.1.1
+155 lineage4.8.1 lineage4.6.2 lineage4.2 lineage4.6
+154 lineagecap lineage4.4 lineage1.1.3.2 lineage4.3.3
+156 lineage4.9.1 lineage4.6.1.2 lineage4.7 lineage9
+157 lineage3.1.1 lineage4.4.1 lineage4.1.1.3 lineage2.2.1
+158 lineage4.2.2.1 lineage4.2.2.2 lineage4.9.1 lineage4.3.4
+159 lineage4.2 lineage3.1.2.2 lineage4.3.1 lineage1.1.1
+160 lineage4.4.1.2 lineage4.3.1.1 lineage1.1.1.1 lineage2.2
+161 lineage4.6.1 lineage4.1.1 lineage4.2.2.1 lineage1.1.3
+162 lineage4.1.1 lineage1.1.1 lineage1.1.1.1 lineage4.3.3
+163 lineage1.1.3.3 lineage4.1.2.1.1 lineage2.1 lineage7
+167 lineage3.1.2.1 lineage1.1.1 lineage4.9.1 lineage7
+165 lineage4.6.4 lineage4.1.3 lineage4.6.3 lineage4.6.1
+168 lineage2.2.1.1 lineage4.9.1 lineage4.3.2 lineage4.6.1
+164 lineage4.3.2 lineage4.2.2.2 lineage4.4.2 lineage1.1.3
+170 lineage1.2.2 lineage2.2.1 lineage4.1.4 lineage4.6.2
+166 lineage4.1.1.3 lineage1.1.2 lineage4.8 lineage3
+171 lineage4.3.4.1 lineage4.4 lineage9 lineage4.6.2
+172 lineagecap lineage4.6.2.1 lineage4.2.2 lineage4.3.1.1
+169 lineage4.3.4.1 lineage4.2.1 lineage4.6.4 lineage4.4.1.1.1
+175 lineage4.2.1 lineage4.4.1.1.1 lineage3.1.1 lineage1.1.3.3
+173 lineage3 lineage4.4.1.2 lineage3.1.2.1 lineage9
+174 lineage4.1.2.1.1 lineage4.1 lineage4.4.1.1 lineage1.2.2
+176 lineage4.3.4.2 lineage4.4 lineageoryg lineagebov
+177 lineage4.9.1 lineage3.1.2 lineage4.1.2.1 lineage4.7
+179 lineage4.2.2 lineage1.1.3.1 lineage4.6.1.1 lineage4.3.4
+178 lineage4.2.2.1 lineage9 lineage4.1.1.3 lineagecap
+180 lineage4.8.3 lineage9 lineage4.4.1.1.1 lineage4.3.1.1
+181 lineage2.2.1 lineage8 lineage1.1.2 lineage1.2.1
+182 lineage4.8 lineage4.3.4.2.1 lineage4.2.2 lineage1
+183 lineage1.2.2 lineage4.3.2.1 lineage4.1.1.2 lineage2.2.2
+184 lineage1.1.1.1 lineage4.2.2 lineage4.4.1.2 lineage1.1.3.1
+186 lineage8 lineage4.2.2.1 lineage1.1.3.2 lineage1.1.3.2
+185 lineage2.2.1.1 lineage4.3.2 lineage4.1.3 lineage4.4.1
+187 lineage7 lineage4.3.3 lineage4.1.4 lineage1.2.2
+189 lineage4.6.3 lineage4.2.1.1 lineage8 lineage4.3.4.1
+188 lineage3.1.1 lineage4.2.1 lineageoryg lineage1
+195 lineage8 lineage4.3.1.1 lineage6 lineage4.1.2
+197 lineage4.1.1 lineage2.1 lineage4.3.4.1 lineage2.1
+193 lineage4.4.2 lineage3.1.2 lineage4.9.1 lineage4.9.1
+196 lineage4.3.4.2.1 lineage4.1.2.1.1 lineage4.2.1 lineage1.2.2.1
+194 lineage4.1.1.1 lineage3.1.2.1 lineage1.1 lineage4.3.4
+191 lineage4.4.1.2 lineage2.2.1.1 lineage6 lineage4.3.4
+192 lineage4.4 lineage4.9.1 lineage1.1.2 lineage1.1.3.2
+198 lineage4.6 lineage4.6.2.1 lineage4.6.1.2 lineage4.1.1.1
+190 lineage3.1.1 lineage4.5 lineage7 lineage2.2.2
+199 lineage4.1.1.2 lineage6 lineage9 lineage4.1.1
+200 lineage4.3.2 lineage4.3.2.1 lineage4.6.2.1 lineage4.2.1.1
+9 Bir-42 0284K I0001406-3 J09500392
+3 Bir-22 Bir-78 2926STDY5723423 T46_2
+1 UT0014 Bir192 01-R0228 2074CJ
+2 Mtb43 TRS14 H3367 SLM056
+4 0B123ND 1832S A70011_2 M0020190-6
+7 I09400970 Bir-247 Bir-265 00-R1244
+8 ZMC13-88 2926STDY5723702 02-R1551 632
+10 J09500392 2393C Bir-145 A70196
+5 1024P 2926STDY5723724 M2144 2392B
+6 0733Y F00002017 Bir-144 2011-0565
+11 Bir-419 1537X 0365Y M1488
+12 2483AR KT-0098 0525X Bir-75
+14 TKK_04_0079 2926STDY5723520 M1213 type-strain:-2500
+16 BIR-03 A70280 2489F Kurono
+15 2358P Bir-312 AH26_26663 200625
+13 BTB09-184 2597Z Bir-408 Bir-116
+17 KT-0091 0A012DS H2375 2516L
+18 01-R0712 HN-506 NRITLD17 01-R0824
+19 Bir-251 Aethiop_vetus_232 Bir-475 0912S
+20 M2141 type-strain:-0545 Bir-133 0647E
+21 Bir-32 02-R1933 2196MM AUH13
+22 2360R 0469L MAL010136 200253
+23 GG-134-11 SUMu009 M1906 01-R0648
+24 2257E 2926STDY5723497 1500108 Bir-102
+25 2636R LN3668 I0004478-9 KT-0016
+29 T09800777 Bir179 2302D UT0090
+28 00-15489 M1400 2353J TB_RSA161
+30 M1397 0018W Bir-228 M2007
+26 2514J BTB08-001 0486E MAL010136
+27 001_13432 I0001662-1 H107 1067L
+31 1607Y Bir185 2337R 621
+32 1343L 0666A H114540002 E09701106
+33 UT0052 0822-11 A4 H1329
+34 2591S LN3584 type-strain:-0430 2345A
+36 2351G TKK_03_0101 1551M 200253
+35 BTB11-192 M2384 Bir-299 1821ADB38
+39 M1978 Bir-142 M1295 2926STDY5723623
+40 Bir-135 M2130 2926STDY5723623 M2116
+38 MAL010084 XTB13-128 0429S D-4155
+37 ATCC35740 0469L M1961 A09901284
+41 Bir172 Bir-239 XTB13-161 M1340
+42 Bir-94 I0005710-4 XDR1219 47
+44 XTB13-121 KT-0003 M1221 I00300818
+43 M2134 M2350 A70144_1 2337R
+45 1067L 1507P 02-R0991 Bir-30
+50 LN3672 Bir-171 M0020454-6 1355Z
+46 MbURU-002 Bir-324 MbURU-002 MAL010078
+47 TKK_03_0082 0392C 0650H 2276A
+48 Bir-173 MbURU-011 J09902073 MD18486
+49 2279D 2171L UT0087 LN3588
+51 MAL010105 BTB10-253 Bir-287 410
+52 type-strain:-0545 112400015 2462C E09801032
+53 3280CJ GG-77-11 0B218DS MB2
+54 M1559 UT205 Bir-419 0400L
+55 TBR-102 K09700503 UT0038 N09900855
+57 GG-109-10 2505Z Bir-242 Bir-176
+56 H2463 2926STDY5723661 UT0096 0043Y
+58 G09801536 TKK_03_0089 I0000374-4 2585L
+59 OFXR-6 KT-0204 2276A Bir180
+60 Bir-144 I0001443-6 03-R0088 2926STDY5723727
+61 MAL020148 type-strain:-1879 400739 Q09901557
+62 TKK_02_0079 KT-0034 Bir-181 CCDC5079_1
+63 TKK_03_0082 02-R0846 Bir-133 Bir-349
+64 type-strain:-0660 M1404 00-15489 0479X
+65 Bir-93 H2760 Bir-474 Bir-139
+67 KT-0185 Bir-278 402248 OFXR-13
+66 Bir-133 Bir-136 XTB13-119 UT0112
+68 2336Q OFXR-12 I0004426-8 0498S
+69 2926STDY5723480 7199-99 C0004133-6 Bir-265
+70 1537X M0017764-3 2391A MAL020135
+71 KT-0203 GG-229-10 Bir-306 Bir-112
+72 ATCCBAA-824 TBV4768 J09500385 C2_2
+73 2525W 01-R1278 Bir-130 Bir-33
+74 GG-109-10 1772C Bir-134 TB_RSA149
+75 BTB05-285 M00201208 PanR0304 KT-0199
+76 2234E Bir-173 L_13621 I09702330
+77 02-R0142 SIT745-EAI1-MYS TKK_02_0010 A70645
+78 TKK_03_0098 I0005682-5 1325R MTB1
+80 2333M G09901357 Aethiop_vetus_234 Bir-255
+79 BTB04-158 2926STDY5723773 MTB1_M M1393
+81 M2384 TRS1 0539M KT-0085
+82 TKK_03_0115 NRITLD57 Bir-27 PanR0403
+83 TBMENG-03 M0002998-4 M1932 N09902308
+84 A70011_6 0277C KT-0028 A70490
+85 0052H BTB08-356 A00301419 GG-77-11
+86 B00001265 E09701191 Bir-416 SIT745-EAI1-MYS
+87 2926STDY5723733 0174Q Beijing2014PNGD 2926STDY5723441
+88 MP2 2011-0565 BE_116771 1700284
+89 TB_RSA149 M0009182-8 H107 112400015
+90 A70011_2 GG-27-11 2559H LN3672
+91 M0506147 MAL020173 type-strain:-2500 MD18489
+92 H111920015 PanR0403 GG-36-11 M0018060-5
+93 UT0071 2538K KT-0099 662
+94 MD16568 type-strain:-2339 2248V J09900583
+95 MAL020107 Bir-279 Bir-91 OSDD518
+96 0344A 0B076XDR 0344A T09800777
+97 0754W UT0071 UT0100 2214H
+98 Bir-124 2267Q 2516L 0638V
+99 H_13571 667 1343L J09902073
+100 0323C M1317 0459A TRS15
+101 2337R M2343 Bir-276 TRS7
+102 MbURU-001 TRS29 1732J UT0044
+103 ATCCBAA-935 Bir-272 2336Q J09500385
+104 M1475 Bir-422 D8788 1084E
+105 CCDC5180 2484B M2218 Bir-236
+106 Bir-421 M2346 K09700503 MAL010137
+107 M1270 MD18112 Bir-429 Bir178
+108 2489F UM-CSF04 M0020843-0 300239
+109 I0003206-5 2484B B00001265 I0002150-6
+110 OFXR-29 TRS8 MDRMA2491 02-R1151
+111 2926STDY5723518 2467H Bir-214 Bir-220
+112 ATCC35740 Bir-30 2594W China
+113 0A012DS 0283J UT0096 TRS12
+114 2347C 0019X Bir-141 MbURU-022
+115 M1533 0019X EE0506784 KT-0051
+116 H2101 0925G I0002687-7 TKK_04_0153
+117 2405Q Bir-231 M2346 UT0090
+118 H1578 Bir-265 2334N 00-R1244
+119 Bir-302 OFXR-12 UM-1072388579 N09501026
+120 Bir-175 2626F Bir-38 Bir-260
+121 M1287 Bir-88 M2442 0520R
+122 25 Bir-127 J09800745 M2084
+124 Bir-92 01-R0270 M1520 PanR0605
+123 Bir-29 01-R1196 Bir-103 00-R1244
+125 2180W M2142 Bir-174 Bir-451
+126 44503 1336D R09500613 A70762
+127 0B076XDR 401555 Bir-251 TKK_02_0037
+128 type-strain:-1695 PanR0606 type-strain:-2201 0645C
+129 49-02 2351G H00200930 03-04003
+130 TRS12 Bir-296 MTBR1-09 2390Z
+131 2369B BTB12-094 BIR-15 AUH8
+132 KT-0014 China I0005322-8 M1448
+133 TKK_03_0101 Bir-160 A70480 BTB07-299
+134 2926STDY5723661 M1309 Bir-220 1821ADB37
+135 type-strain:-2408 2926STDY5723623 1377Y Bir-459
+136 0528A M1010_1 MD16553 R09500613
+137 2236G 0473Q PR08_1 A70250
+138 0486E M2132 2926STDY5723549 02-R1933
+139 Bir-32 H09601792 I0001406-3 M09402043
+140 0678N UT0106 KT-0012 XTB13-249
+141 M1728 M1734 GG-90-10 I0002531-7
+142 PanR0403 0666A 2926STDY5723666 Bir-235
+143 ATCC35740 Bir-98 Bir-53 Bir-68
+144 TRS6 631 Bir-158 2382Q
+145 UT307 03-R0091 B09601926 0728S
+146 M0005584-9 TKK-01-0092 2296X 2634P
+147 Bir-225 A70480 OSDD493 0649G
+148 99-R874 BTB08-148 BTB06-467 MAL010084
+149 I0000968-3 TB_RSA96 BTB04-172 M1397
+150 OFXR-30 2926STDY5723723 XDR1221 J09602061
+151 Bir-474 00-R1245-2 I0005682-5 NRITLD56
+152 99-R874 MAL020135 M1978 Bir-242
+153 Bir-134 Bir-459 C3 TKK_03_0026
+154 type-strain:-0890 M990 H2101 2478V
+155 02-R1024 type-strain:-0338 Aethiop_vetus_230 XTB13-089
+156 Bir-409 2382Q Bir-243 OM-V02_005
+157 OFXR-27 Y09400034 I0005726-0 AUH7
+158 0B169XDR C4_16679 2251Y ATCCBAA-935
+159 KT-0056 BT1 PanR1101 XTB13-128
+160 MB1 Bir-224 0996J M2140
+161 0520R 2594W MD15050 BTB12-002
+162 Bir-52 UM-CSF01 MAL010103 A70596
+163 0399K UT0104 06-18635 A70645
+164 CDC1551 2174P G09801536 0466H
+165 0896A 0955P SLM056 type-strain:-2385
+166 Bir-50 M2193 TB_RSA175 2234E
+167 B09601926 2074CJ Bir-226 D00501624
+168 TRS9 D00000071 Bir-423 NCGM946K2
+169 0322B AUH7 2337R 2537J
+170 1487S UT0037 AUH5 0427Q
+171 UT0069 Bir-115 2625E 0925G
+172 Bir-66 1942M 0533F 2391A
+173 0836K PanR0908 PR10 TB_RSA175
+174 M0003226-9 Bir-177 Bir-388 XDR1221
+175 KT-0183 2433W Bir-278 Bir-464
+176 BTB06-340 MAL020197 K09700503 UT0098
+177 2182Y 2540P M1425 K00500041
+178 0459A Bir-32 MTB20_M 1507P
+179 00-R1152 TKK_04_0029 0441F 0B169XDR
+180 AUH7 2541MS Bir-474 M2086
+181 type-strain:-0292 M2134 Bir-311 I0000522-8
+182 H2375 KT-0029 0524W M1340
+183 Bir-93 KT-0100 UT0115 0A094DS
+184 I0005443-2 TRS1 Bir-284 0647E
+185 1397V H3361 BTB11-289 632
+186 type-strain:-0131 I0003584-5 2926STDY5723733 A70260
+187 Bir-74 Bir-188 Bir-306 M0020454-6
+188 MAL010087 TRS5 OFXR-11 I0001662-1
+189 KT-0070 M0024434-4 MAL010137 BTB11-047
+190 07-05749 Bir-475 2926STDY5723873 0B123ND
+191 LE76 AH_14271 2249W 2487E
+192 M1929 I0002935-0 OFXR-30 MAL010086
+193 Bir-477 Bir-56 KT-0064 0A115DS
+194 Aethiop_vetus_234 02-R0981 NRITLD59 Moreau_1
+195 I0002150-6 Bir-135 UT0124 KT-0092
+196 MAL020179 Bir-263 1457K BTB08-309
+197 Bir-92 Bir-414 KT-0201 M2131
+198 0049E H3986 TKK_04_0017 0392C
+199 Bir-322 AU_8623 BTB11-160 ATCCBAA-688
+200 M0016693-5 C0003187-3 J09900221 H111920015
+1 lineage1.1.1.1 lineage4.6.1 lineage4.6.2.1 lineage1.1
+2 lineage1.2.2.1 lineage4.4.1 lineage4.1.1 lineage5
+10 lineage4.2.2 lineage4.3.4.1 lineage4.6.4 lineage6
+5 lineage4.3.1 lineage2 lineage4.1.2 lineage4.2
+8 lineage4.6.2 lineage1.1.3.3 lineage4.4.1.1.1 lineage4.1.1.3
+3 lineage4.6.1.2 lineage4.1.1 lineagecap lineage3.1.2.1
+9 lineage4.3.2 lineage4.8 lineage1.1.3.1 lineage4.2.1
+6 lineage4.3 lineage4.8.3 lineage4.2.2.2 lineage4.4.2
+4 lineage1.1.1 lineage4.1.1.1 lineage4.1 lineage1.1.3.2
+7 lineage2 lineage4.8 lineage4.1.1 lineage4.3.1
+11 lineage4.6.2 lineage3.1.2.1 lineage3.1.2.1 lineage4.3.1.1
+12 lineage4.8.3 lineagebov lineage4.1.1.1 lineage4.1.2
+13 lineage1.1.3.3 lineagecap lineage3.1.1 lineage4.2.1
+14 lineage2 lineage2.1 lineage2.2.1 lineage2.1
+15 lineage4.3.2.1 lineage4.3.4 lineage4.3.2.1 lineage4.6.5
+163 lineage1.1.3.3 lineage4.1.2.1.1 lineage2.1 lineage7
+16 lineage3.1.2 lineage4.1.1.3.1 lineage4.4.1 lineage4.8.2
+17 lineage4.8.1 lineage4.3.4.2 lineage4.2.2.2 lineage4.1.3
+18 lineage4.1 lineage4.2.2 lineage4.1.1.1 lineage4.8.2
+19 lineage4.3.4.1 lineage2.2 lineage4.6.1.2 lineage5
+164 lineage4.3.2 lineage4.2.2.2 lineage4.4.2 lineage1.1.3
+165 lineage4.6.4 lineage4.1.3 lineage4.6.3 lineage4.6.1
+167 lineage3.1.2.1 lineage1.1.1 lineage4.9.1 lineage7
+168 lineage2.2.1.1 lineage4.9.1 lineage4.3.2 lineage4.6.1
+196 lineage4.3.4.2.1 lineage4.1.2.1.1 lineage4.2.1 lineage1.2.2.1
+171 lineage4.3.4.1 lineage4.4 lineage9 lineage4.6.2
+169 lineage4.3.4.1 lineage4.2.1 lineage4.6.4 lineage4.4.1.1.1
+170 lineage1.2.2 lineage2.2.1 lineage4.1.4 lineage4.6.2
+1 lineage1.1.1.1 lineage4.6.1
+3 lineage1.2.2.1 lineage4.4.1
+6 lineagecap lineage3.1.2.1
+4 lineage4.1.1 lineage5
+10 lineage4.1.2 lineage4.2
+2 lineage4.6.2.1 lineage1.1
+9 lineage4.3.1 lineage2
+8 lineage4.1 lineage1.1.3.2
+5 lineage4.6.1.2 lineage4.1.1
+7 lineage1.1.1 lineage4.1.1.1
+11 lineage4.3 lineage4.8.3
+18 lineage1.1.3.1 lineage4.2.1
+12 lineage4.2.2.2 lineage4.4.2
+20 lineage4.6.4 lineage6
+13 lineage2 lineage4.8
+15 lineage4.6.2 lineage1.1.3.3
+19 lineage4.2.2 lineage4.3.4.1
+16 lineage4.4.1.1.1 lineage4.1.1.3
+14 lineage4.1.1 lineage4.3.1
+17 lineage4.3.2 lineage4.8
+21 lineage4.6.2 lineage3.1.2.1
+23 lineage4.8.3 lineagebov
+22 lineage3.1.2.1 lineage4.3.1.1
+24 lineage4.1.1.1 lineage4.1.2
+26 lineage3.1.1 lineage4.2.1
+29 lineage4.3.2.1 lineage4.3.4
+27 lineage2 lineage2.1
+30 lineage4.3.2.1 lineage4.6.5
+25 lineage1.1.3.3 lineagecap
+28 lineage2.2.1 lineage2.1
+31 lineage3.1.2 lineage4.1.1.3.1
+32 lineage4.4.1 lineage4.8.2
+33 lineage4.8.1 lineage4.3.4.2
+34 lineage4.2.2.2 lineage4.1.3
+35 lineage4.1 lineage4.2.2
+37 lineage4.3.4.1 lineage2.2
+36 lineage4.1.1.1 lineage4.8.2
+38 lineage4.6.1.2 lineage5
+40 lineage1.1 lineage4.3.2.1
+39 lineage5 lineage4.2.1
+41 lineage3.1.2 lineage1.1.3.2
+42 lineage4.3.3 lineage4.1.1.1
+43 lineage1.2.1 lineage4.3.2.1
+45 lineage4.8 lineage4.1
+44 lineage4.6.2.2 lineage4.2.2.2
+46 lineageoryg lineage1.1.3
+47 lineage4.6.1.2 lineage4.8
+48 lineage9 lineage4.3.2
+49 lineage2.2.1.1 lineageoryg
+50 lineage1.1.1.1 lineage8
+51 lineage8 lineage4.9.1
+52 lineage4.1.1.2 lineage4.3.1.1
+53 lineage2.2 lineage4.3.4.2.1
+55 lineage1.1.1.1 lineage2
+54 lineage1.1.3.1 lineage4.1.1.2
+56 lineage4.8.1 lineage2.2.1
+57 lineage5 lineage4.1.1
+58 lineage2.2.2 lineage4.2.2.1
+59 lineage3.1.2.1 lineage1.2.1
+60 lineage4.8.2 lineage1
+61 lineage3.1.1 lineage4.6.2
+62 lineage4.3.4 lineage3.1.2.1
+63 lineage4.3.4.2.1 lineage4.3.2
+64 lineage4.3.4.1 lineage4.6.2.2
+65 lineage4.5 lineage2.2.1.1
+66 lineage4.1.1.3 lineage4.8.1
+67 lineage4.8.3 lineage1.1.2
+68 lineageoryg lineage4.3.1
+69 lineage2 lineage4.6.2
+70 lineage4.6.4 lineage4.6.1
+71 lineage4.8 lineage4.3
+72 lineage4.4.1.1 lineage1.2.1
+73 lineage4.3.1.1 lineage3.1.2.2
+74 lineage1.2.2 lineage2.1
+75 lineage4.6.1 lineage4.3.2.1
+76 lineage1.1.1 lineage4.2.2
+77 lineage4.6 lineage1.2.1
+78 lineage4.4.1.2 lineage4.8
+79 lineage1.1.1 lineage4.1.3
+80 lineagecap lineage4.1
+81 lineage4.6.1.1 lineage4.6.2.1
+82 lineage9 lineage1.2.2.1
+83 lineage4.8.2 lineage4.3.4
+84 lineage1.1.1 lineage4.2.2
+85 lineage4.3.3 lineage4.2
+86 lineage2.2 lineage1.1.3.1
+87 lineage4.4.1.2 lineage2.2
+89 lineage4.4.1.1.1 lineage4.6.2
+88 lineage3.1.1 lineage4.6.2
+90 lineage1.1.3.2 lineage4.1.2
+91 lineage4.3.1 lineage4.6.3
+92 lineage1 lineage1.1.3.1
+93 lineage5 lineage4.2.2
+94 lineage4.1.2.1.1 lineage4.1.2
+95 lineage4.2.1 lineage2.2.1
+96 lineage4.1.2.1.1 lineage3
+97 lineage4.6.1 lineage4.3.1
+100 lineage1.1.1.1 lineage4.5
+98 lineage4.4.1.1.1 lineage4.3.4.2
+99 lineage2 lineage4.3.1
+101 lineage1.1.1.1 lineage4.9.1
+103 lineage4.2 lineage4.3.2.1
+102 lineage6 lineage6
+104 lineage4.6.2.1 lineage4.4.1.1
+105 lineage2.2 lineage2
+106 lineage2.2.1.1 lineage4.2.1.1
+109 lineage6 lineage4.4.2
+108 lineage4.4.2 lineage4.8.3
+107 lineageoryg lineage4.3.3
+110 lineage4.6.3 lineage4.3.4.2.1
+111 lineage4.4.1 lineage4.1.1.3
+112 lineage1.2.1 lineage4.6.5
+113 lineage4.2.2.2 lineage4.1.1.3.1
+114 lineage4.4.2 lineage4.2.2
+115 lineage4.1.2.1 lineage1.1.2
+116 lineage3.1.2.1 lineage4.6.4
+117 lineage1.1 lineage4.1
+119 lineage4.3.4.2 lineage4.2
+118 lineage4.1.1.2 lineage3.1.2
+120 lineage4.6.1.1 lineage4.3.4.2.1
+121 lineage1.1.1.1 lineage4.6.2.2
+122 lineage1.1.3.3 lineage4.3.3
+123 lineage4.6.2.1 lineage7
+124 lineage4.1 lineage4.4.1.1.1
+125 lineage4.8 lineage4.1.4
+126 lineage4.5 lineage9
+127 lineage4.4.2 lineage4.4.1.1
+129 lineage4.8.3 lineage4.6.1.2
+128 lineageoryg lineage1.1.3.3
+130 lineage4.2.2.1 lineage3.1.2.2
+131 lineage1.1.3.2 lineage1
+132 lineage3.1.2.2 lineage2.2.2
+133 lineage4.1.1.3.1 lineage4.1.1
+134 lineage1.1 lineage4.1.1.1
+135 lineage4.1.1.2 lineage2.2.1.1
+136 lineage4.2.2.1 lineage4.6
+137 lineage4.4.1 lineage2
+138 lineage4.6.4 lineage4.2.2.1
+140 lineage4.6.3 lineage4.2.2.2
+139 lineage4.3.2.1 lineage4.6.5
+141 lineage4.6.1 lineage4.2.2.2
+142 lineage4.8.3 lineage4.3
+143 lineage6 lineage4.1.2.1.1
+144 lineage4.8 lineage4.1.1
+145 lineage4.4.1.1.1 lineage4.1.3
+146 lineage1.2.2 lineagebov
+147 lineage6 lineage4.6.1.2
+148 lineage4.3 lineage4.4.1
+149 lineage7 lineage1.1.1
+150 lineage3.1.2 lineage4.4.1
+151 lineage1.2.2.1 lineage1.1.3
+152 lineage4.1 lineage1.1.3
+153 lineage4.8.2 lineage2
+154 lineage4.1.3 lineage4.3.2
+155 lineage1.2.2 lineage4.3.2.1
+156 lineage2.2 lineage4.8
+158 lineage4.2.2.2 lineage4.4.1.1
+157 lineage1.1.3 lineagecap
+159 lineage4.4.1.1 lineage4.3.2.1
+160 lineage4.6.2.1 lineagecap
+161 lineage4.8.2 lineage4.3.1.1
+164 lineage8 lineage4.3.3
+162 lineage2.2.2 lineage2.2
+163 lineage4.3.4.2.1 lineageoryg
+166 lineage3.1.1 lineage4.3.1.1
+165 lineage3.1.1 lineage4.3.1
+167 lineage2.2.1.1 lineage4.4.1.2
+168 lineage1.2.2.1 lineage3
+169 lineage1.1.3.3 lineage4.6.4
+170 lineage4.3.1 lineage4.6.2.1
+171 lineageoryg lineage4.6.4
+172 lineage4.4.2 lineage4.1
+173 lineage4.1.3 lineage2.2.1.1
+174 lineage4.1.2 lineage9
+175 lineageoryg lineage4.3.1.1
+176 lineage4.2.2 lineage4.1.1.1
+177 lineage4.8.2 lineage4.7
+178 lineage1.2.1 lineage1.2.2.1
+179 lineage2 lineage4.6
+180 lineage4.4 lineage1
+181 lineage4.2.1.1 lineage8
+182 lineage4.1.1.3.1 lineage3.1.2.1
+183 lineage4.4 lineage2.1
+184 lineage4.4.1 lineage2.2.2
+186 lineage4.3.4.2.1 lineage1.1.3.1
+185 lineage4.3 lineage4.6.2.2
+187 lineage4.1.1.3.1 lineage4.1
+188 lineage4.3.4.2 lineage4.1.1.3
+189 lineage4.6.1 lineage2.2
+190 lineage3.1.2.2 lineage1.1.1
+191 lineage4.4.1.1 lineage4.6.4
+192 lineage3 lineage1.1.2
+194 lineage4.8.2 lineage1.2.2.1
+193 lineage4.8.1 lineage4.4.1
+195 lineage4.3.2 lineageoryg
+196 lineageoryg lineage4.9.1
+197 lineage4.4 lineage4.8
+198 lineage4.5 lineage4.3.4.1
+199 lineage2.2.1.1 lineage4.6
+200 lineage4.1.1 lineage4.1.3
+2 lineage4.6.2.1 lineage1.1
+10 lineage4.1.2 lineage4.2
+9 lineage4.3.1 lineage2
+1 lineage1.1.1.1 lineage4.6.1
+3 lineage1.2.2.1 lineage4.4.1
+6 lineagecap lineage3.1.2.1
+4 lineage4.1.1 lineage5
+8 lineage4.1 lineage1.1.3.2
+7 lineage1.1.1 lineage4.1.1.1
+5 lineage4.6.1.2 lineage4.1.1
+11 lineage4.3 lineage4.8.3
+20 lineage4.6.4 lineage6
+13 lineage2 lineage4.8
+12 lineage4.2.2.2 lineage4.4.2
+14 lineage4.1.1 lineage4.3.1
+17 lineage4.3.2 lineage4.8
+19 lineage4.2.2 lineage4.3.4.1
+16 lineage4.4.1.1.1 lineage4.1.1.3
+15 lineage4.6.2 lineage1.1.3.3
+18 lineage1.1.3.1 lineage4.2.1
+21 lineage4.6.2 lineage3.1.2.1
+22 lineage3.1.2.1 lineage4.3.1.1
+23 lineage4.8.3 lineagebov
+24 lineage4.1.1.1 lineage4.1.2
+26 lineage3.1.1 lineage4.2.1
+28 lineage2.2.1 lineage2.1
+25 lineage1.1.3.3 lineagecap
+29 lineage4.3.2.1 lineage4.3.4
+30 lineage4.3.2.1 lineage4.6.5
+27 lineage2 lineage2.1
+32 lineage4.4.1 lineage4.8.2
+31 lineage3.1.2 lineage4.1.1.3.1
+33 lineage4.8.1 lineage4.3.4.2
+34 lineage4.2.2.2 lineage4.1.3
+37 lineage4.3.4.1 lineage2.2
+35 lineage4.1 lineage4.2.2
+38 lineage4.6.1.2 lineage5
+36 lineage4.1.1.1 lineage4.8.2
+40 lineage1.1 lineage4.3.2.1
+39 lineage5 lineage4.2.1
+41 lineage3.1.2 lineage1.1.3.2
+42 lineage4.3.3 lineage4.1.1.1
+43 lineage1.2.1 lineage4.3.2.1
+44 lineage4.6.2.2 lineage4.2.2.2
+46 lineageoryg lineage1.1.3
+45 lineage4.8 lineage4.1
+47 lineage4.6.1.2 lineage4.8
+49 lineage2.2.1.1 lineageoryg
+48 lineage9 lineage4.3.2
+50 lineage1.1.1.1 lineage8
+51 lineage8 lineage4.9.1
+52 lineage4.1.1.2 lineage4.3.1.1
+53 lineage2.2 lineage4.3.4.2.1
+54 lineage1.1.3.1 lineage4.1.1.2
+55 lineage1.1.1.1 lineage2
+58 lineage2.2.2 lineage4.2.2.1
+57 lineage5 lineage4.1.1
+56 lineage4.8.1 lineage2.2.1
+59 lineage3.1.2.1 lineage1.2.1
+60 lineage4.8.2 lineage1
+61 lineage3.1.1 lineage4.6.2
+62 lineage4.3.4 lineage3.1.2.1
+63 lineage4.3.4.2.1 lineage4.3.2
+64 lineage4.3.4.1 lineage4.6.2.2
+67 lineage4.8.3 lineage1.1.2
+66 lineage4.1.1.3 lineage4.8.1
+65 lineage4.5 lineage2.2.1.1
+69 lineage2 lineage4.6.2
+70 lineage4.6.4 lineage4.6.1
+68 lineageoryg lineage4.3.1
+71 lineage4.8 lineage4.3
+72 lineage4.4.1.1 lineage1.2.1
+73 lineage4.3.1.1 lineage3.1.2.2
+74 lineage1.2.2 lineage2.1
+75 lineage4.6.1 lineage4.3.2.1
+76 lineage1.1.1 lineage4.2.2
+77 lineage4.6 lineage1.2.1
+79 lineage1.1.1 lineage4.1.3
+78 lineage4.4.1.2 lineage4.8
+80 lineagecap lineage4.1
+81 lineage4.6.1.1 lineage4.6.2.1
+82 lineage9 lineage1.2.2.1
+83 lineage4.8.2 lineage4.3.4
+85 lineage4.3.3 lineage4.2
+84 lineage1.1.1 lineage4.2.2
+86 lineage2.2 lineage1.1.3.1
+89 lineage4.4.1.1.1 lineage4.6.2
+87 lineage4.4.1.2 lineage2.2
+90 lineage1.1.3.2 lineage4.1.2
+88 lineage3.1.1 lineage4.6.2
+91 lineage4.3.1 lineage4.6.3
+92 lineage1 lineage1.1.3.1
+93 lineage5 lineage4.2.2
+95 lineage4.2.1 lineage2.2.1
+94 lineage4.1.2.1.1 lineage4.1.2
+96 lineage4.1.2.1.1 lineage3
+97 lineage4.6.1 lineage4.3.1
+98 lineage4.4.1.1.1 lineage4.3.4.2
+100 lineage1.1.1.1 lineage4.5
+99 lineage2 lineage4.3.1
+101 lineage1.1.1.1 lineage4.9.1
+102 lineage6 lineage6
+103 lineage4.2 lineage4.3.2.1
+104 lineage4.6.2.1 lineage4.4.1.1
+105 lineage2.2 lineage2
+106 lineage2.2.1.1 lineage4.2.1.1
+108 lineage4.4.2 lineage4.8.3
+107 lineageoryg lineage4.3.3
+109 lineage6 lineage4.4.2
+110 lineage4.6.3 lineage4.3.4.2.1
+112 lineage1.2.1 lineage4.6.5
+111 lineage4.4.1 lineage4.1.1.3
+113 lineage4.2.2.2 lineage4.1.1.3.1
+114 lineage4.4.2 lineage4.2.2
+115 lineage4.1.2.1 lineage1.1.2
+117 lineage1.1 lineage4.1
+116 lineage3.1.2.1 lineage4.6.4
+118 lineage4.1.1.2 lineage3.1.2
+119 lineage4.3.4.2 lineage4.2
+120 lineage4.6.1.1 lineage4.3.4.2.1
+121 lineage1.1.1.1 lineage4.6.2.2
+122 lineage1.1.3.3 lineage4.3.3
+123 lineage4.6.2.1 lineage7
+124 lineage4.1 lineage4.4.1.1.1
+125 lineage4.8 lineage4.1.4
+126 lineage4.5 lineage9
+129 lineage4.8.3 lineage4.6.1.2
+127 lineage4.4.2 lineage4.4.1.1
+128 lineageoryg lineage1.1.3.3
+130 lineage4.2.2.1 lineage3.1.2.2
+133 lineage4.1.1.3.1 lineage4.1.1
+131 lineage1.1.3.2 lineage1
+132 lineage3.1.2.2 lineage2.2.2
+134 lineage1.1 lineage4.1.1.1
+135 lineage4.1.1.2 lineage2.2.1.1
+136 lineage4.2.2.1 lineage4.6
+137 lineage4.4.1 lineage2
+138 lineage4.6.4 lineage4.2.2.1
+140 lineage4.6.3 lineage4.2.2.2
+139 lineage4.3.2.1 lineage4.6.5
+142 lineage4.8.3 lineage4.3
+143 lineage6 lineage4.1.2.1.1
+141 lineage4.6.1 lineage4.2.2.2
+144 lineage4.8 lineage4.1.1
+145 lineage4.4.1.1.1 lineage4.1.3
+146 lineage1.2.2 lineagebov
+147 lineage6 lineage4.6.1.2
+148 lineage4.3 lineage4.4.1
+149 lineage7 lineage1.1.1
+150 lineage3.1.2 lineage4.4.1
+152 lineage4.1 lineage1.1.3
+151 lineage1.2.2.1 lineage1.1.3
+153 lineage4.8.2 lineage2
+154 lineage4.1.3 lineage4.3.2
+155 lineage1.2.2 lineage4.3.2.1
+156 lineage2.2 lineage4.8
+157 lineage1.1.3 lineagecap
+159 lineage4.4.1.1 lineage4.3.2.1
+160 lineage4.6.2.1 lineagecap
+158 lineage4.2.2.2 lineage4.4.1.1
+161 lineage4.8.2 lineage4.3.1.1
+163 lineage4.3.4.2.1 lineageoryg
+162 lineage2.2.2 lineage2.2
+164 lineage8 lineage4.3.3
+165 lineage3.1.1 lineage4.3.1
+166 lineage3.1.1 lineage4.3.1.1
+167 lineage2.2.1.1 lineage4.4.1.2
+169 lineage1.1.3.3 lineage4.6.4
+168 lineage1.2.2.1 lineage3
+170 lineage4.3.1 lineage4.6.2.1
+171 lineageoryg lineage4.6.4
+173 lineage4.1.3 lineage2.2.1.1
+172 lineage4.4.2 lineage4.1
+174 lineage4.1.2 lineage9
+175 lineageoryg lineage4.3.1.1
+176 lineage4.2.2 lineage4.1.1.1
+177 lineage4.8.2 lineage4.7
+178 lineage1.2.1 lineage1.2.2.1
+180 lineage4.4 lineage1
+179 lineage2 lineage4.6
+185 lineage4.3 lineage4.6.2.2
+181 lineage4.2.1.1 lineage8
+184 lineage4.4.1 lineage2.2.2
+182 lineage4.1.1.3.1 lineage3.1.2.1
+183 lineage4.4 lineage2.1
+186 lineage4.3.4.2.1 lineage1.1.3.1
+187 lineage4.1.1.3.1 lineage4.1
+188 lineage4.3.4.2 lineage4.1.1.3
+189 lineage4.6.1 lineage2.2
+190 lineage3.1.2.2 lineage1.1.1
+191 lineage4.4.1.1 lineage4.6.4
+192 lineage3 lineage1.1.2
+193 lineage4.8.1 lineage4.4.1
+195 lineage4.3.2 lineageoryg
+194 lineage4.8.2 lineage1.2.2.1
+196 lineageoryg lineage4.9.1
+197 lineage4.4 lineage4.8
+198 lineage4.5 lineage4.3.4.1
+199 lineage2.2.1.1 lineage4.6
+200 lineage4.1.1 lineage4.1.3
+1 lineage1.1.1.1 lineage4.6.1 lineage4.6.2.1 lineage1.1
+3 lineage4.6.1.2 lineage4.1.1 lineagecap lineage3.1.2.1
+9 lineage4.3.2 lineage4.8 lineage1.1.3.1 lineage4.2.1
+2 lineage1.2.2.1 lineage4.4.1 lineage4.1.1 lineage5
+6 lineage4.3 lineage4.8.3 lineage4.2.2.2 lineage4.4.2
+4 lineage1.1.1 lineage4.1.1.1 lineage4.1 lineage1.1.3.2
+10 lineage4.2.2 lineage4.3.4.1 lineage4.6.4 lineage6
+7 lineage2 lineage4.8 lineage4.1.1 lineage4.3.1
+5 lineage4.3.1 lineage2 lineage4.1.2 lineage4.2
+8 lineage4.6.2 lineage1.1.3.3 lineage4.4.1.1.1 lineage4.1.1.3
+11 lineage4.6.2 lineage3.1.2.1 lineage3.1.2.1 lineage4.3.1.1
+12 lineage4.8.3 lineagebov lineage4.1.1.1 lineage4.1.2
+13 lineage1.1.3.3 lineagecap lineage3.1.1 lineage4.2.1
+14 lineage2 lineage2.1 lineage2.2.1 lineage2.1
+16 lineage3.1.2 lineage4.1.1.3.1 lineage4.4.1 lineage4.8.2
+17 lineage4.8.1 lineage4.3.4.2 lineage4.2.2.2 lineage4.1.3
+15 lineage4.3.2.1 lineage4.3.4 lineage4.3.2.1 lineage4.6.5
+18 lineage4.1 lineage4.2.2 lineage4.1.1.1 lineage4.8.2
+19 lineage4.3.4.1 lineage2.2 lineage4.6.1.2 lineage5
+20 lineage5 lineage4.2.1 lineage1.1 lineage4.3.2.1
+4 lineage1.1.1 lineage4.1.1.1 lineage4.1 lineage1.1.3.2
+1 lineage1.1.1.1 lineage4.6.1 lineage4.6.2.1 lineage1.1
+10 lineage4.2.2 lineage4.3.4.1 lineage4.6.4 lineage6
+3 lineage4.6.1.2 lineage4.1.1 lineagecap lineage3.1.2.1
+6 lineage4.3 lineage4.8.3 lineage4.2.2.2 lineage4.4.2
+2 lineage1.2.2.1 lineage4.4.1 lineage4.1.1 lineage5
+5 lineage4.3.1 lineage2 lineage4.1.2 lineage4.2
+8 lineage4.6.2 lineage1.1.3.3 lineage4.4.1.1.1 lineage4.1.1.3
+7 lineage2 lineage4.8 lineage4.1.1 lineage4.3.1
+9 lineage4.3.2 lineage4.8 lineage1.1.3.1 lineage4.2.1
+11 lineage4.6.2 lineage3.1.2.1 lineage3.1.2.1 lineage4.3.1.1
+12 lineage4.8.3 lineagebov lineage4.1.1.1 lineage4.1.2
+13 lineage1.1.3.3 lineagecap lineage3.1.1 lineage4.2.1
+20 lineage5 lineage4.2.1 lineage1.1 lineage4.3.2.1
+14 lineage2 lineage2.1 lineage2.2.1 lineage2.1
+16 lineage3.1.2 lineage4.1.1.3.1 lineage4.4.1 lineage4.8.2
+15 lineage4.3.2.1 lineage4.3.4 lineage4.3.2.1 lineage4.6.5
+19 lineage4.3.4.1 lineage2.2 lineage4.6.1.2 lineage5
+17 lineage4.8.1 lineage4.3.4.2 lineage4.2.2.2 lineage4.1.3
+18 lineage4.1 lineage4.2.2 lineage4.1.1.1 lineage4.8.2
+21 lineage3.1.2 lineage1.1.3.2 lineage4.3.3 lineage4.1.1.1
+22 lineage1.2.1 lineage4.3.2.1 lineage4.6.2.2 lineage4.2.2.2
+23 lineage4.8 lineage4.1 lineageoryg lineage1.1.3
+25 lineage2.2.1.1 lineageoryg lineage1.1.1.1 lineage8
+24 lineage4.6.1.2 lineage4.8 lineage9 lineage4.3.2
+26 lineage8 lineage4.9.1 lineage4.1.1.2 lineage4.3.1.1
+27 lineage2.2 lineage4.3.4.2.1 lineage1.1.3.1 lineage4.1.1.2
+29 lineage5 lineage4.1.1 lineage2.2.2 lineage4.2.2.1
+30 lineage3.1.2.1 lineage1.2.1 lineage4.8.2 lineage1
+28 lineage1.1.1.1 lineage2 lineage4.8.1 lineage2.2.1
+31 lineage3.1.1 lineage4.6.2 lineage4.3.4 lineage3.1.2.1
+32 lineage4.3.4.2.1 lineage4.3.2 lineage4.3.4.1 lineage4.6.2.2
+33 lineage4.5 lineage2.2.1.1 lineage4.1.1.3 lineage4.8.1
+34 lineage4.8.3 lineage1.1.2 lineageoryg lineage4.3.1
+35 lineage2 lineage4.6.2 lineage4.6.4 lineage4.6.1
+36 lineage4.8 lineage4.3 lineage4.4.1.1 lineage1.2.1
+38 lineage4.6.1 lineage4.3.2.1 lineage1.1.1 lineage4.2.2
+37 lineage4.3.1.1 lineage3.1.2.2 lineage1.2.2 lineage2.1
+40 lineage1.1.1 lineage4.1.3 lineagecap lineage4.1
+39 lineage4.6 lineage1.2.1 lineage4.4.1.2 lineage4.8
+41 lineage4.6.1.1 lineage4.6.2.1 lineage9 lineage1.2.2.1
+42 lineage4.8.2 lineage4.3.4 lineage1.1.1 lineage4.2.2
+43 lineage4.3.3 lineage4.2 lineage2.2 lineage1.1.3.1
+44 lineage4.4.1.2 lineage2.2 lineage3.1.1 lineage4.6.2
+45 lineage4.4.1.1.1 lineage4.6.2 lineage1.1.3.2 lineage4.1.2
+46 lineage4.3.1 lineage4.6.3 lineage1 lineage1.1.3.1
+48 lineage4.2.1 lineage2.2.1 lineage4.1.2.1.1 lineage3
+47 lineage5 lineage4.2.2 lineage4.1.2.1.1 lineage4.1.2
+49 lineage4.6.1 lineage4.3.1 lineage4.4.1.1.1 lineage4.3.4.2
+50 lineage2 lineage4.3.1 lineage1.1.1.1 lineage4.5
+51 lineage1.1.1.1 lineage4.9.1 lineage6 lineage6
+52 lineage4.2 lineage4.3.2.1 lineage4.6.2.1 lineage4.4.1.1
+53 lineage2.2 lineage2 lineage2.2.1.1 lineage4.2.1.1
+54 lineageoryg lineage4.3.3 lineage4.4.2 lineage4.8.3
+55 lineage6 lineage4.4.2 lineage4.6.3 lineage4.3.4.2.1
+56 lineage4.4.1 lineage4.1.1.3 lineage1.2.1 lineage4.6.5
+57 lineage4.2.2.2 lineage4.1.1.3.1 lineage4.4.2 lineage4.2.2
+58 lineage4.1.2.1 lineage1.1.2 lineage3.1.2.1 lineage4.6.4
+59 lineage1.1 lineage4.1 lineage4.1.1.2 lineage3.1.2
+60 lineage4.3.4.2 lineage4.2 lineage4.6.1.1 lineage4.3.4.2.1
+61 lineage1.1.1.1 lineage4.6.2.2 lineage1.1.3.3 lineage4.3.3
+62 lineage4.6.2.1 lineage7 lineage4.1 lineage4.4.1.1.1
+63 lineage4.8 lineage4.1.4 lineage4.5 lineage9
+64 lineage4.4.2 lineage4.4.1.1 lineageoryg lineage1.1.3.3
+65 lineage4.8.3 lineage4.6.1.2 lineage4.2.2.1 lineage3.1.2.2
+66 lineage1.1.3.2 lineage1 lineage3.1.2.2 lineage2.2.2
+67 lineage4.1.1.3.1 lineage4.1.1 lineage1.1 lineage4.1.1.1
+68 lineage4.1.1.2 lineage2.2.1.1 lineage4.2.2.1 lineage4.6
+70 lineage4.3.2.1 lineage4.6.5 lineage4.6.3 lineage4.2.2.2
+69 lineage4.4.1 lineage2 lineage4.6.4 lineage4.2.2.1
+71 lineage4.6.1 lineage4.2.2.2 lineage4.8.3 lineage4.3
+72 lineage6 lineage4.1.2.1.1 lineage4.8 lineage4.1.1
+73 lineage4.4.1.1.1 lineage4.1.3 lineage1.2.2 lineagebov
+74 lineage6 lineage4.6.1.2 lineage4.3 lineage4.4.1
+75 lineage7 lineage1.1.1 lineage3.1.2 lineage4.4.1
+76 lineage1.2.2.1 lineage1.1.3 lineage4.1 lineage1.1.3
+77 lineage4.8.2 lineage2 lineage4.1.3 lineage4.3.2
+78 lineage1.2.2 lineage4.3.2.1 lineage2.2 lineage4.8
+79 lineage1.1.3 lineagecap lineage4.2.2.2 lineage4.4.1.1
+80 lineage4.4.1.1 lineage4.3.2.1 lineage4.6.2.1 lineagecap
+81 lineage4.8.2 lineage4.3.1.1 lineage2.2.2 lineage2.2
+82 lineage4.3.4.2.1 lineageoryg lineage8 lineage4.3.3
+83 lineage3.1.1 lineage4.3.1 lineage3.1.1 lineage4.3.1.1
+84 lineage2.2.1.1 lineage4.4.1.2 lineage1.2.2.1 lineage3
+85 lineage1.1.3.3 lineage4.6.4 lineage4.3.1 lineage4.6.2.1
+86 lineageoryg lineage4.6.4 lineage4.4.2 lineage4.1
+87 lineage4.1.3 lineage2.2.1.1 lineage4.1.2 lineage9
+88 lineageoryg lineage4.3.1.1 lineage4.2.2 lineage4.1.1.1
+89 lineage4.8.2 lineage4.7 lineage1.2.1 lineage1.2.2.1
+90 lineage2 lineage4.6 lineage4.4 lineage1
+91 lineage4.2.1.1 lineage8 lineage4.1.1.3.1 lineage3.1.2.1
+92 lineage4.4 lineage2.1 lineage4.4.1 lineage2.2.2
+93 lineage4.3 lineage4.6.2.2 lineage4.3.4.2.1 lineage1.1.3.1
+95 lineage4.6.1 lineage2.2 lineage3.1.2.2 lineage1.1.1
+94 lineage4.1.1.3.1 lineage4.1 lineage4.3.4.2 lineage4.1.1.3
+96 lineage4.4.1.1 lineage4.6.4 lineage3 lineage1.1.2
+97 lineage4.8.1 lineage4.4.1 lineage4.8.2 lineage1.2.2.1
+98 lineage4.3.2 lineageoryg lineageoryg lineage4.9.1
+100 lineage2.2.1.1 lineage4.6 lineage4.1.1 lineage4.1.3
+99 lineage4.4 lineage4.8 lineage4.5 lineage4.3.4.1
+101 lineage4.3.4.1 lineage4.1 lineage4.8.1 lineage2.1
+102 lineage4.3.4 lineage4.6.1 lineage4.1.4 lineage4.1.4
+103 lineage4.6 lineage3.1.2.1 lineage4.1 lineage3
+104 lineage4.5 lineage3.1.2.2 lineage4.6.1 lineage4.8.2
+105 lineage4.4.2 lineage3.1.2.1 lineage1.1.3.2 lineage6
+106 lineage1.2.2.1 lineage4.6.5 lineage4.7 lineage4.3.4.2
+107 lineage4.5 lineage4.9.1 lineage4.4.1.1.1 lineage4.4.1.2
+108 lineage4.3.1 lineage4.9.1 lineage4.1.2.1.1 lineage4.1.1.2
+109 lineage4.4.1.2 lineage4.8.1 lineage1.1.3.3 lineage4.4
+110 lineage4.1.1 lineage2.2.2 lineage1.1.3.1 lineage2.2.2
+111 lineage1.1.3.3 lineage1.1.3.1 lineage4.2.1 lineagecap
+112 lineage4.1.2.1.1 lineage4.6.2 lineage4.4.1.1.1 lineage4.1.3
+114 lineage1.2.2 lineage4.5 lineage1.2.2 lineage2.2
+113 lineage4.2.2.1 lineage1.1.3 lineage5 lineage3.1.2.2
+115 lineage4.6.1.1 lineage2.2.2 lineage4.9.1 lineage1.1
+116 lineage4.1.1 lineage4.1.2.1 lineage4.9.1 lineage3.1.1
+117 lineage4.2 lineage1.1 lineage4.2.1.1 lineage4.1.3
+118 lineage1.1 lineage4.2.2 lineage4.1.3 lineage4.3.4.2
+119 lineage1.1.3.1 lineage4.4.1 lineage4.3.2.1 lineage3.1.1
+120 lineage4.6.3 lineage4.1.2.1.1 lineage4.4.1.1 lineageoryg
+121 lineage8 lineage4.4.1.2 lineage4.4.1.1 lineage4.1.1.3
+122 lineage1 lineage4.6.2.2 lineage4.8 lineage4.6.5
+123 lineage4.4.1.2 lineage4.1.1.2 lineage2.2 lineage4.1.3
+124 lineage4.3.2.1 lineage4.1 lineage5 lineage4.6.2.2
+125 lineage4.3.4.1 lineage4.3.2.1 lineage4.1.1.3.1 lineage4.2.1.1
+126 lineage6 lineage5 lineage1.2.2.1 lineage1.1.3.2
+127 lineage4.4.1.1.1 lineage2.2.1.1 lineage1.1.3 lineage4.1.1.3
+128 lineage4.6.1 lineage4.6.1.1 lineage6 lineage1.1.1.1
+129 lineage2.2 lineage1.1.3.2 lineage4.2.2 lineage4.3.2.1
+130 lineage4.1.4 lineage2.2.1.1 lineage2.2 lineage4.1.2
+131 lineage4.4.1.1 lineage4.6.1.1 lineage4.3.2.1 lineage4.1.2.1
+133 lineage4.1.4 lineage1.1.1.1 lineage4.3.2 lineage4.4.1.2
+132 lineage3.1.2 lineage2 lineage4.1.1.3.1 lineage4.6.3
+134 lineage3.1.2.1 lineage4.4.1.2 lineage4.2.1 lineage1.1.3.2
+135 lineage1.1 lineage4.4.1 lineage4.6.4 lineage4.1.1.3
+136 lineage4.4.2 lineage1.2.2 lineage4.2.1 lineage3
+137 lineage4.6.3 lineage4.8.3 lineage4.2.1 lineage4.1.1.1
+138 lineage1 lineage4.1 lineage4.3.2 lineage1.2.2.1
+139 lineage4.4.1.1 lineage1.1.3 lineage4.6.1.2 lineage9
+140 lineage4.3.1 lineage4.1.2 lineage1.1.3.3 lineage4.8.1
+141 lineage4.9.1 lineage4.2.2.1 lineage4.3.4.2.1 lineage1.1.3
+142 lineage1.1.3.3 lineage4.2.2.2 lineage4.3.2 lineage4.3.4.2
+143 lineage4.2.2.1 lineagebov lineage4.1.1.1 lineage4.6.2.2
+144 lineage4.9.1 lineage5 lineage4.4.1.2 lineage4.3
+145 lineagebov lineage4.1.2.1.1 lineage4.6.1.1 lineage4.6.5
+146 lineage6 lineage3 lineage3 lineage4.6.5
+147 lineage4.8 lineage4.3.3 lineage3.1.2 lineageoryg
+148 lineage4.2.2 lineage1.1.3.3 lineage4.2.1 lineage4.3.1.1
+149 lineage1.1.1.1 lineage4.4 lineage8 lineage5
+150 lineage4.1.2.1.1 lineage1.1.2 lineage3 lineage4.2.1.1
+151 lineage4.1.3 lineagecap lineage4.6.2 lineage4.1.2.1
+152 lineage6 lineage4.5 lineage6 lineage4.1.2
+153 lineage4.1.1.1 lineage4.4.1 lineage4.1.3 lineage4.4.1.1.1
+154 lineagecap lineage4.4 lineage1.1.3.2 lineage4.3.3
+155 lineage4.8.1 lineage4.6.2 lineage4.2 lineage4.6
+156 lineage4.9.1 lineage4.6.1.2 lineage4.7 lineage9
+157 lineage3.1.1 lineage4.4.1 lineage4.1.1.3 lineage2.2.1
+158 lineage4.2.2.1 lineage4.2.2.2 lineage4.9.1 lineage4.3.4
+159 lineage4.2 lineage3.1.2.2 lineage4.3.1 lineage1.1.1
+160 lineage4.4.1.2 lineage4.3.1.1 lineage1.1.1.1 lineage2.2
+161 lineage4.6.1 lineage4.1.1 lineage4.2.2.1 lineage1.1.3
+162 lineage4.1.1 lineage1.1.1 lineage1.1.1.1 lineage4.3.3
+163 lineage1.1.3.3 lineage4.1.2.1.1 lineage2.1 lineage7
+164 lineage4.3.2 lineage4.2.2.2 lineage4.4.2 lineage1.1.3
+166 lineage4.1.1.3 lineage1.1.2 lineage4.8 lineage3
+165 lineage4.6.4 lineage4.1.3 lineage4.6.3 lineage4.6.1
+167 lineage3.1.2.1 lineage1.1.1 lineage4.9.1 lineage7
+168 lineage2.2.1.1 lineage4.9.1 lineage4.3.2 lineage4.6.1
+169 lineage4.3.4.1 lineage4.2.1 lineage4.6.4 lineage4.4.1.1.1
+170 lineage1.2.2 lineage2.2.1 lineage4.1.4 lineage4.6.2
+171 lineage4.3.4.1 lineage4.4 lineage9 lineage4.6.2
+172 lineagecap lineage4.6.2.1 lineage4.2.2 lineage4.3.1.1
+173 lineage3 lineage4.4.1.2 lineage3.1.2.1 lineage9
+174 lineage4.1.2.1.1 lineage4.1 lineage4.4.1.1 lineage1.2.2
+175 lineage4.2.1 lineage4.4.1.1.1 lineage3.1.1 lineage1.1.3.3
+176 lineage4.3.4.2 lineage4.4 lineageoryg lineagebov
+177 lineage4.9.1 lineage3.1.2 lineage4.1.2.1 lineage4.7
+178 lineage4.2.2.1 lineage9 lineage4.1.1.3 lineagecap
+180 lineage4.8.3 lineage9 lineage4.4.1.1.1 lineage4.3.1.1
+179 lineage4.2.2 lineage1.1.3.1 lineage4.6.1.1 lineage4.3.4
+181 lineage2.2.1 lineage8 lineage1.1.2 lineage1.2.1
+182 lineage4.8 lineage4.3.4.2.1 lineage4.2.2 lineage1
+183 lineage1.2.2 lineage4.3.2.1 lineage4.1.1.2 lineage2.2.2
+184 lineage1.1.1.1 lineage4.2.2 lineage4.4.1.2 lineage1.1.3.1
+185 lineage2.2.1.1 lineage4.3.2 lineage4.1.3 lineage4.4.1
+186 lineage8 lineage4.2.2.1 lineage1.1.3.2 lineage1.1.3.2
+187 lineage7 lineage4.3.3 lineage4.1.4 lineage1.2.2
+188 lineage3.1.1 lineage4.2.1 lineageoryg lineage1
+189 lineage4.6.3 lineage4.2.1.1 lineage8 lineage4.3.4.1
+190 lineage3.1.1 lineage4.5 lineage7 lineage2.2.2
+191 lineage4.4.1.2 lineage2.2.1.1 lineage6 lineage4.3.4
+192 lineage4.4 lineage4.9.1 lineage1.1.2 lineage1.1.3.2
+193 lineage4.4.2 lineage3.1.2 lineage4.9.1 lineage4.9.1
+194 lineage4.1.1.1 lineage3.1.2.1 lineage1.1 lineage4.3.4
+195 lineage8 lineage4.3.1.1 lineage6 lineage4.1.2
+196 lineage4.3.4.2.1 lineage4.1.2.1.1 lineage4.2.1 lineage1.2.2.1
+197 lineage4.1.1 lineage2.1 lineage4.3.4.1 lineage2.1
+199 lineage4.1.1.2 lineage6 lineage9 lineage4.1.1
+198 lineage4.6 lineage4.6.2.1 lineage4.6.1.2 lineage4.1.1.1
+200 lineage4.3.2 lineage4.3.2.1 lineage4.6.2.1 lineage4.2.1.1

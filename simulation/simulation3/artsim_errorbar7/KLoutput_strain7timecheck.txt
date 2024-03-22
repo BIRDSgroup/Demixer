@@ -1,0 +1,7 @@
+reading done
+729 107
+Number of samples: 50
+running_prior_SNP_LDA 1 0.01
+hello
+7
+running

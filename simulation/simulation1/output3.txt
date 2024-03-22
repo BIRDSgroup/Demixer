@@ -1,0 +1,1554 @@
+[Errno 17] File exists: '/data/users/CS18D017/LVM_Multistrain/Preprocessing/Pycode/Demixer-main/Demixer/simulation/simulation1/Demixer_cpp/input'
+[Errno 17] File exists: '/data/users/CS18D017/LVM_Multistrain/Preprocessing/Pycode/Demixer-main/Demixer/simulation/simulation1/Demixer_cpp/output'
+5551217950856061005704436272614735456
+simulate data run= 0
+Working directory changed to: Demixer_cpp/input
+100	3
+2976399321	3336058701	2556618232
+reading done0 seconds
+The file is empty.
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+[0.44847252 0.7871857  1.3629254 ]
+[1.25177737 1.30557269 0.58457415]
+[1.37081264 1.09459129 1.39312327]
+meth 0
+3 (array([1]),)
+running_SNP_LDA
+297554634747106451734704011370331130843
+[0.28248207 0.02266747 0.80731882]
+[       inf        inf 0.23944006]
+[0.7142893       inf       inf]
+meth 1
+3 (array([0]),)
+running_NMF_SNP_LDA
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+114779671887994553875161648601015525056
+Working directory changed to: Demixer_cpp/input
+100	3
+2438885713	2217694671	2217266117
+The file is empty.
+start parallelization
+process output
+[0.01303642 0.27368437        inf]
+[       inf        inf 0.00743239]
+[      inf 0.7300553       inf]
+meth 2
+3 (array([1]),)
+Working directory changed to: Demixer_cpp/input
+100	3
+245557412	1683901037	627130335
+reading done0 seconds
+weight 3 600 150.0 50.0 33.33343333333334 16.666766666666668 1.0
+1.0
+Average 50.0
+running_prior_SNP_LDA 1 0.01
+223836353493247712472510060268059660597
+[0.00322831        inf        inf]
+[       inf        inf 0.00362786]
+[       inf 0.00916946        inf]
+meth 3
+3 (array([1]),)
+running_prior_NMF_SNP_LDA 1 0.01
+134935690149638073622977838794236184147
+Working directory changed to: Demixer_cpp/input
+100	3
+68223440	4274785026	480027512
+Working directory changed to: Demixer_cpp/input
+100	3
+3846578251	2885440565	1976439376
+reading done0 seconds
+start parallelization
+process output
+[0.00529194        inf        inf]
+[       inf        inf 0.00447373]
+[       inf 0.00349179        inf]
+meth 4
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 1, 1] 0.01
+298879717518041979293753475625387319749
+[0.0042448       inf       inf]
+[       inf 0.00675686        inf]
+[      inf       inf 0.0231005]
+meth 5
+3 (array([2]),)
+running_prior_NMF_SNP_LDA [0.01, 1, 1] 0.01
+156417115143816862704975582707071984324
+Working directory changed to: Demixer_cpp/input
+100	3
+1396647581	2174722873	3187037853
+Working directory changed to: Demixer_cpp/input
+100	3
+3160709803	4293043016	3917040585
+reading done0 seconds
+start parallelization
+process output
+[0.00404083        inf        inf]
+[       inf        inf 0.00517303]
+[       inf 0.00751767        inf]
+meth 6
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 10, 1] 0.01
+275637173079163023571870145903653810778
+[0.00177117        inf        inf]
+[       inf 0.00342327        inf]
+[       inf        inf 0.00595419]
+meth 7
+3 (array([2]),)
+running_prior_NMF_SNP_LDA [0.01, 10, 1] 0.01
+17212504117820199011278510667004636278
+Working directory changed to: Demixer_cpp/input
+100	3
+1123191355	1259206600	1925961317
+Working directory changed to: Demixer_cpp/input
+100	3
+2314043048	1199725156	2417642665
+reading done0 seconds
+start parallelization
+process output
+[0.0166581       inf       inf]
+[       inf        inf 0.01257922]
+[     inf 0.366756      inf]
+meth 8
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 1, 1]
+333886078616760778000203875269664898569
+[0.12588564        inf        inf]
+[1.17668597 0.02842836 1.60837294]
+[       inf 2.51579096 0.08129518]
+meth 9
+3 (array([2]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 1, 1]
+270027843671646894025785371309655686248
+Working directory changed to: Demixer_cpp/input
+100	3
+502389990	936828243	1800878374
+Working directory changed to: Demixer_cpp/input
+100	3
+1668590367	1380205040	4004534336
+reading done0 seconds
+start parallelization
+process output
+[0.11484988        inf        inf]
+[1.23456296 1.50555288 0.03030386]
+[       inf 0.09499923 2.53643287]
+meth 10
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 10, 1]
+117163214594667264302734897435988320635
+[0.23654349 1.38629436        inf]
+[0.97947832 1.38629436 0.01562758]
+[1.18062806 1.38629436        inf]
+meth 11
+3 (array([0]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 10, 1]
+2282781015290675551018967213781353760
+Working directory changed to: Demixer_cpp/input
+100	3
+3768903468	1344549426	1034146741
+start parallelization
+process output
+[0.09434182 1.37724722        inf]
+[       inf 1.3774331  0.02869618]
+[       inf 1.40118142        inf]
+meth 12
+3 (array([1]),)
+simulate data run= 1
+Working directory changed to: Demixer_cpp/input
+100	3
+3709075073	2992060819	466575977
+reading done0 seconds
+The file is empty.
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+[0.4396394  0.88045497 1.27899265]
+[1.23983148 1.28768506 0.59606474]
+[1.37143429 1.04464999 1.38442711]
+meth 0
+3 (array([1]),)
+running_SNP_LDA
+106493891068014918177202988103820358424
+[0.32264239 0.04882923 0.79348912]
+[       inf        inf 0.24865354]
+[0.64918154        inf        inf]
+meth 1
+3 (array([0]),)
+running_NMF_SNP_LDA
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+156805080773585262276941661190038073958
+Working directory changed to: Demixer_cpp/input
+100	3
+1198131651	1047830426	3706324055
+The file is empty.
+start parallelization
+process output
+[0.02395023 0.32962307        inf]
+[       inf        inf 0.02727236]
+[       inf 0.63401929        inf]
+meth 2
+3 (array([1]),)
+Working directory changed to: Demixer_cpp/input
+100	3
+2822594595	1970284930	2331041259
+reading done0 seconds
+weight 3 600 150.0 50.0 33.33343333333334 16.666766666666668 1.0
+1.0
+Average 50.0
+running_prior_SNP_LDA 1 0.01
+105636245758442407862371342046827311041
+[0.00692382        inf        inf]
+[      inf       inf 0.0104698]
+[       inf 0.02258153        inf]
+meth 3
+3 (array([1]),)
+running_prior_NMF_SNP_LDA 1 0.01
+37891625653437962691087952125185947841
+Working directory changed to: Demixer_cpp/input
+100	3
+1552116805	1030191778	3892292579
+Working directory changed to: Demixer_cpp/input
+100	3
+194025011	2480483195	265273950
+reading done0 seconds
+start parallelization
+process output
+[0.00834214        inf        inf]
+[       inf        inf 0.00819651]
+[       inf 0.00875346        inf]
+meth 4
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 1, 1] 0.01
+339637460810245931250623582537578164412
+[0.00766156        inf        inf]
+[       inf        inf 0.01127647]
+[       inf 0.15072751        inf]
+meth 5
+3 (array([1]),)
+running_prior_NMF_SNP_LDA [0.01, 1, 1] 0.01
+56246587904883536761591960209466951618
+Working directory changed to: Demixer_cpp/input
+100	3
+674131704	3605133104	1521565930
+Working directory changed to: Demixer_cpp/input
+100	3
+1599326851	2801604467	3877195931
+reading done0 seconds
+start parallelization
+process output
+[0.00537983        inf        inf]
+[       inf        inf 0.00657368]
+[       inf 0.00383442        inf]
+meth 6
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 10, 1] 0.01
+273864093455311360231864145379929731518
+[0.00381732        inf        inf]
+[       inf 0.50251321 0.00409653]
+[       inf 0.42823355        inf]
+meth 7
+3 (array([1]),)
+running_prior_NMF_SNP_LDA [0.01, 10, 1] 0.01
+245012569713214937618511067663203404339
+Working directory changed to: Demixer_cpp/input
+100	3
+2058715846	3274759377	3553282760
+Working directory changed to: Demixer_cpp/input
+100	3
+2372416269	2577283038	1614628089
+reading done0 seconds
+start parallelization
+process output
+[0.01909867        inf        inf]
+[       inf        inf 0.01900197]
+[       inf 0.35101228        inf]
+meth 8
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 1, 1]
+113711651457988544708341852448714710711
+[0.11419425        inf        inf]
+[1.23686975 0.03259177 1.64829732]
+[       inf 2.27754692 0.07809824]
+meth 9
+3 (array([2]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 1, 1]
+63635321162319591621908835843138372366
+Working directory changed to: Demixer_cpp/input
+100	3
+3697814368	1871552839	2214689780
+Working directory changed to: Demixer_cpp/input
+100	3
+1450510435	112632488	2746144243
+reading done0 seconds
+start parallelization
+process output
+[0.1148983       inf       inf]
+[1.23420257 1.51001292 0.03749607]
+[       inf 0.08776683        inf]
+meth 10
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 10, 1]
+217874687210325693845450221725918429746
+[0.21789079 1.38629436        inf]
+[1.06740385 1.38629436 0.013968  ]
+[1.16014641 1.38629436        inf]
+meth 11
+3 (array([0]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 10, 1]
+225006080527001311861690631027048979440
+Working directory changed to: Demixer_cpp/input
+100	3
+2741564400	761646945	1829398265
+start parallelization
+process output
+[0.12248776 1.36820007        inf]
+[       inf 1.39479037 0.01836452]
+[1.24100711 1.39249824 2.94887091]
+meth 12
+3 (array([0]),)
+simulate data run= 2
+Working directory changed to: Demixer_cpp/input
+100	3
+2394445618	2379224091	4256547078
+reading done1 seconds
+The file is empty.
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+[0.46318268 0.85636542 1.22803026]
+[1.18406233 1.28392273 0.67518008]
+[1.359891   1.05468955 1.35779003]
+meth 0
+3 (array([1]),)
+running_SNP_LDA
+179720565683277584707925956207186180409
+[0.07382628 0.61130315 0.40127514]
+[       inf 0.34381784        inf]
+[       inf        inf 0.56383178]
+meth 1
+3 (array([2]),)
+running_NMF_SNP_LDA
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+41132788455736203340041587125121095502
+Working directory changed to: Demixer_cpp/input
+100	3
+1695864580	509449798	2278536735
+The file is empty.
+start parallelization
+process output
+[0.092679   0.30018251        inf]
+[1.39161809        inf 0.02135747]
+[       inf 0.68193413        inf]
+meth 2
+3 (array([1]),)
+Working directory changed to: Demixer_cpp/input
+100	3
+136842166	1291079723	1903042460
+reading done0 seconds
+weight 3 600 150.0 50.0 33.33343333333334 16.666766666666668 1.0
+1.0
+Average 50.0
+running_prior_SNP_LDA 1 0.01
+56646494541202432566953710533525891237
+[0.00588755        inf        inf]
+[       inf 0.00959086        inf]
+[       inf        inf 0.18110101]
+meth 3
+3 (array([2]),)
+running_prior_NMF_SNP_LDA 1 0.01
+196728634541408762894330335218031001143
+Working directory changed to: Demixer_cpp/input
+100	3
+1178666326	1946307309	4158381110
+Working directory changed to: Demixer_cpp/input
+100	3
+101665162	2484007579	1892842891
+reading done0 seconds
+start parallelization
+process output
+[0.00919223        inf        inf]
+[       inf        inf 0.00867334]
+[       inf 0.01123144        inf]
+meth 4
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 1, 1] 0.01
+219792767991243502834929371171119699580
+[0.00876562        inf        inf]
+[       inf        inf 0.01183753]
+[       inf 0.10381596        inf]
+meth 5
+3 (array([1]),)
+running_prior_NMF_SNP_LDA [0.01, 1, 1] 0.01
+230579019648424354974726304660613401938
+Working directory changed to: Demixer_cpp/input
+100	3
+2319912021	4183355868	3402722371
+Working directory changed to: Demixer_cpp/input
+100	3
+3082185307	1664805687	435482670
+reading done0 seconds
+start parallelization
+process output
+[0.00956159        inf        inf]
+[       inf        inf 0.00685238]
+[       inf 0.01198524        inf]
+meth 6
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 10, 1] 0.01
+163263453123308375100117316502041176398
+[0.00133695        inf        inf]
+[       inf 0.00333586        inf]
+[       inf        inf 0.00086129]
+meth 7
+3 (array([2]),)
+running_prior_NMF_SNP_LDA [0.01, 10, 1] 0.01
+125338352795823235576218884964406103817
+Working directory changed to: Demixer_cpp/input
+100	3
+677276914	2188755778	1777776276
+Working directory changed to: Demixer_cpp/input
+100	3
+482586597	2132214769	2773245200
+reading done0 seconds
+start parallelization
+process output
+[0.02116154        inf        inf]
+[       inf        inf 0.02238696]
+[     inf 0.365386      inf]
+meth 8
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 1, 1]
+302750988552165671752151867521429432721
+[0.13490729        inf        inf]
+[1.13434849 1.6702427  0.05934296]
+[       inf 0.07672718 1.72051596]
+meth 9
+3 (array([1]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 1, 1]
+265709894425826260963644582119348192801
+Working directory changed to: Demixer_cpp/input
+100	3
+3526467283	733574791	930160365
+Working directory changed to: Demixer_cpp/input
+100	3
+2699126937	3231621830	1004031414
+reading done0 seconds
+start parallelization
+process output
+[0.13118846        inf        inf]
+[1.15301468 1.52728648 0.05385449]
+[       inf 0.08849665 1.82857694]
+meth 10
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 10, 1]
+329509785367468056598385812710407827561
+[0.23344942 1.37724722        inf]
+[1.00550537 1.40365163 0.01193592]
+[1.15734785 1.37761118        inf]
+meth 11
+3 (array([0]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 10, 1]
+5272151170869748746119370484985037835
+Working directory changed to: Demixer_cpp/input
+100	3
+1590998044	2697667111	851491442
+start parallelization
+process output
+[0.23210549 1.37724722        inf]
+[1.00919833 1.40365163 0.01255987]
+[1.15944591 1.37761118        inf]
+meth 12
+3 (array([0]),)
+simulate data run= 3
+Working directory changed to: Demixer_cpp/input
+100	3
+3035000734	4164701194	2847442841
+reading done0 seconds
+The file is empty.
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+[0.43457225 0.7929123  1.36344997]
+[1.28881991 1.27328346 0.57437099]
+[1.37971553 1.09539502 1.38269748]
+meth 0
+3 (array([1]),)
+running_SNP_LDA
+255046102843788939588412998951611230722
+[0.32971457 0.0197068  0.66772456]
+[       inf        inf 0.30811255]
+[0.66931318        inf        inf]
+meth 1
+3 (array([0]),)
+running_NMF_SNP_LDA
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+62907879130062128215296358149914955635
+Working directory changed to: Demixer_cpp/input
+100	3
+2050074916	724166117	98068792
+The file is empty.
+start parallelization
+process output
+[0.01720666 0.27131204        inf]
+[       inf        inf 0.01887792]
+[       inf 0.73900993        inf]
+meth 2
+3 (array([1]),)
+Working directory changed to: Demixer_cpp/input
+100	3
+3821651033	3312701055	2661661773
+reading done0 seconds
+weight 3 600 150.0 50.0 33.33343333333334 16.666766666666668 1.0
+1.0
+Average 50.0
+running_prior_SNP_LDA 1 0.01
+54391018704631567206584714778824644142
+[0.00478342        inf        inf]
+[       inf 0.00610408        inf]
+[       inf        inf 0.05740731]
+meth 3
+3 (array([2]),)
+running_prior_NMF_SNP_LDA 1 0.01
+3257233312371528827158993204191278617
+Working directory changed to: Demixer_cpp/input
+100	3
+4052027653	4216114556	1727053264
+Working directory changed to: Demixer_cpp/input
+100	3
+2800242434	4257640895	1421610602
+reading done0 seconds
+start parallelization
+process output
+[0.00583014        inf        inf]
+[       inf        inf 0.00784988]
+[       inf 0.01578161        inf]
+meth 4
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 1, 1] 0.01
+328752522803109936757486080260452438749
+[0.00439236        inf        inf]
+[       inf 0.7303761  0.00229308]
+[inf inf inf]
+greater than 1.5
+meth 5
+3 (array([], dtype=int64),)
+running_prior_NMF_SNP_LDA [0.01, 1, 1] 0.01
+218938682841847189002853359722967222630
+Working directory changed to: Demixer_cpp/input
+100	3
+1072846475	2033629420	3702066212
+Working directory changed to: Demixer_cpp/input
+100	3
+2887617774	1857837903	1786950118
+reading done0 seconds
+start parallelization
+process output
+[0.00361808        inf        inf]
+[       inf        inf 0.00611662]
+[       inf 0.01501991        inf]
+meth 6
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 10, 1] 0.01
+190489242999663154635467577444182055745
+[0.00284552        inf        inf]
+[       inf 0.42508526 0.00271141]
+[       inf 0.50641117        inf]
+meth 7
+3 (array([1]),)
+running_prior_NMF_SNP_LDA [0.01, 10, 1] 0.01
+307657481590803098061156666470978628574
+Working directory changed to: Demixer_cpp/input
+100	3
+3203970125	3619874426	3480717788
+Working directory changed to: Demixer_cpp/input
+100	3
+1967756970	3543625486	1755221466
+reading done0 seconds
+start parallelization
+process output
+[0.00952496        inf        inf]
+[       inf        inf 0.00953928]
+[       inf 0.49564773        inf]
+meth 8
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 1, 1]
+129741779785288762664362467994359059458
+[0.11593195        inf        inf]
+[1.22861995 0.03888848 1.47840488]
+[       inf 2.06981342 0.09917074]
+meth 9
+3 (array([2]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 1, 1]
+161821200737259685613698461822233786517
+Working directory changed to: Demixer_cpp/input
+100	3
+2032755829	1751661247	927320307
+Working directory changed to: Demixer_cpp/input
+100	3
+4007855422	3878079406	3553217215
+reading done0 seconds
+start parallelization
+process output
+[0.10643858        inf        inf]
+[1.28356492 1.32196519 0.0391554 ]
+[       inf 0.11946381 2.07421931]
+meth 10
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 10, 1]
+224964125756614376571822583280023979322
+[0.20720268 1.429757          inf]
+[1.08861464 1.39479037 0.01665763]
+[1.19547199 1.36892799        inf]
+meth 11
+3 (array([0]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 10, 1]
+223886018116694388099498500772103258776
+Working directory changed to: Demixer_cpp/input
+100	3
+1751182008	1745251163	3117808065
+start parallelization
+process output
+[0.09890008 1.38629436        inf]
+[       inf 1.38629436 0.01585453]
+[1.35545651 1.38629436        inf]
+meth 12
+3 (array([0]),)
+simulate data run= 4
+Working directory changed to: Demixer_cpp/input
+100	3
+2232591947	4209175727	1507744518
+reading done0 seconds
+The file is empty.
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+[0.45249564 0.80788999 1.32941306]
+[1.23069624 1.28196903 0.6073426 ]
+[1.36311505 1.07025494 1.38345878]
+meth 0
+3 (array([1]),)
+running_SNP_LDA
+227080142401972953389744993867075930508
+[0.26353694 0.80411652 0.17650494]
+[       inf 0.24559149 0.98832871]
+[0.75112389        inf        inf]
+meth 1
+3 (array([0]),)
+running_NMF_SNP_LDA
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+320922477481793166977719010708013665925
+Working directory changed to: Demixer_cpp/input
+100	3
+2527289573	1662119626	1672022983
+The file is empty.
+start parallelization
+process output
+[0.02681243 0.28476155        inf]
+[       inf        inf 0.02899958]
+[       inf 0.71050191        inf]
+meth 2
+3 (array([1]),)
+Working directory changed to: Demixer_cpp/input
+100	3
+3763621629	2151236994	492805069
+reading done1 seconds
+weight 3 600 150.0 50.0 33.33343333333334 16.666766666666668 1.0
+1.0
+Average 50.0
+running_prior_SNP_LDA 1 0.01
+302730752187653453789513737932002914461
+[0.00547554        inf        inf]
+[       inf 0.00766056        inf]
+[       inf        inf 0.04932955]
+meth 3
+3 (array([2]),)
+running_prior_NMF_SNP_LDA 1 0.01
+200344570787233350121098457272571999841
+Working directory changed to: Demixer_cpp/input
+100	3
+3931703626	2732033248	2532197145
+Working directory changed to: Demixer_cpp/input
+100	3
+3678856053	1513824993	1172452703
+reading done0 seconds
+start parallelization
+process output
+[0.00523271        inf        inf]
+[       inf        inf 0.00380977]
+[      inf 0.0060288       inf]
+meth 4
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 1, 1] 0.01
+62702630050635506680928461490506186698
+[0.00433623        inf        inf]
+[       inf        inf 0.00709438]
+[       inf 0.21091944        inf]
+meth 5
+3 (array([1]),)
+running_prior_NMF_SNP_LDA [0.01, 1, 1] 0.01
+200440717622541625202555153206689446761
+Working directory changed to: Demixer_cpp/input
+100	3
+3939716409	3708727898	1850693524
+Working directory changed to: Demixer_cpp/input
+100	3
+2388433837	3274764861	3137171600
+reading done0 seconds
+start parallelization
+process output
+[0.00403938        inf        inf]
+[       inf        inf 0.00554141]
+[       inf 0.00473446        inf]
+meth 6
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 10, 1] 0.01
+271477546882308160445001670142934689664
+[0.00282447        inf        inf]
+[       inf 0.47576587 0.0032063 ]
+[       inf 0.45334962        inf]
+meth 7
+3 (array([1]),)
+running_prior_NMF_SNP_LDA [0.01, 10, 1] 0.01
+260268231076160086545848861943118238682
+Working directory changed to: Demixer_cpp/input
+100	3
+3485484426	348879222	2835195695
+Working directory changed to: Demixer_cpp/input
+100	3
+3462647481	1283537638	2421001907
+reading done0 seconds
+start parallelization
+process output
+[0.02099702        inf        inf]
+[       inf        inf 0.02514968]
+[       inf 0.40305192        inf]
+meth 8
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 1, 1]
+326926390187246233173869942948693231178
+[0.15130013        inf        inf]
+[1.06564838 0.04015194 1.56440618]
+[       inf 2.06816246 0.08280061]
+meth 9
+3 (array([2]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 1, 1]
+119787982288423054356494096789490252393
+Working directory changed to: Demixer_cpp/input
+100	3
+968935523	1592259059	680265546
+Working directory changed to: Demixer_cpp/input
+100	3
+2608168209	1117798208	2537958119
+reading done0 seconds
+start parallelization
+process output
+[0.15522031        inf        inf]
+[1.05107451 1.61221244 0.04097862]
+[       inf 0.08003019 2.09662391]
+meth 10
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 10, 1]
+66191292703346822820639903350403689243
+[0.24062874 1.38629436        inf]
+[0.98018641 1.38629436 0.01838997]
+[1.15575537 1.38629436        inf]
+meth 11
+3 (array([0]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 10, 1]
+230480594902382492685433361898984099542
+Working directory changed to: Demixer_cpp/input
+100	3
+34130122	165534392	1387310544
+start parallelization
+process output
+[0.23982241 1.36820007        inf]
+[0.98377142 1.39479037 0.01568611]
+[1.15470189 1.39249824        inf]
+meth 12
+3 (array([0]),)
+simulate data run= 5
+Working directory changed to: Demixer_cpp/input
+100	3
+3747205735	1271363438	1532193351
+reading done0 seconds
+The file is empty.
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+[0.42374278 0.87220205 1.36230579]
+[1.2867141  1.28359015 0.56387363]
+[1.38042028 1.05532167 1.39220726]
+meth 0
+3 (array([1]),)
+running_SNP_LDA
+128281594860689701808861767656213193534
+[0.3125293  0.79470841 0.02494846]
+[       inf 0.24501169        inf]
+[0.66325308        inf        inf]
+meth 1
+3 (array([0]),)
+running_NMF_SNP_LDA
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+158295095988789391328974445686941922533
+Working directory changed to: Demixer_cpp/input
+100	3
+924942346	4022618142	1727813823
+The file is empty.
+start parallelization
+process output
+[0.01305812 0.30942619        inf]
+[       inf        inf 0.01874178]
+[       inf 0.66561031        inf]
+meth 2
+3 (array([1]),)
+Working directory changed to: Demixer_cpp/input
+100	3
+3752519251	4131460778	1550620992
+reading done0 seconds
+weight 3 600 150.0 50.0 33.33343333333334 16.666766666666668 1.0
+1.0
+Average 50.0
+running_prior_SNP_LDA 1 0.01
+160861734104395703094380040376318767563
+[0.0062461       inf       inf]
+[       inf        inf 0.00777686]
+[       inf 0.04664831        inf]
+meth 3
+3 (array([1]),)
+running_prior_NMF_SNP_LDA 1 0.01
+31458795942404423091498144490747308526
+Working directory changed to: Demixer_cpp/input
+100	3
+1047759035	4170347410	1593911396
+Working directory changed to: Demixer_cpp/input
+100	3
+594385321	4077568476	3739259547
+reading done0 seconds
+start parallelization
+process output
+[0.00445112        inf        inf]
+[       inf        inf 0.00515946]
+[       inf 0.01039318        inf]
+meth 4
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 1, 1] 0.01
+286057672150533205997239654596413422740
+[0.00496708        inf        inf]
+[      inf       inf 0.0064127]
+[       inf 0.18473531        inf]
+meth 5
+3 (array([1]),)
+running_prior_NMF_SNP_LDA [0.01, 1, 1] 0.01
+42893994375588159323008552369412989339
+Working directory changed to: Demixer_cpp/input
+100	3
+1717383321	1629257407	1862600937
+Working directory changed to: Demixer_cpp/input
+100	3
+3171038842	2076398015	337126744
+reading done0 seconds
+start parallelization
+process output
+[0.00279463        inf        inf]
+[       inf        inf 0.00441328]
+[       inf 0.00533655        inf]
+meth 6
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 10, 1] 0.01
+92072973349389976770141196767651592823
+[0.00413806        inf        inf]
+[       inf 0.47876466 0.00475407]
+[       inf 0.45185471        inf]
+meth 7
+3 (array([1]),)
+running_prior_NMF_SNP_LDA [0.01, 10, 1] 0.01
+291218542797015026756092571285332868195
+Working directory changed to: Demixer_cpp/input
+100	3
+2586060507	1382415186	3718457199
+Working directory changed to: Demixer_cpp/input
+100	3
+1091917127	3082090294	847928978
+reading done0 seconds
+start parallelization
+process output
+[0.0040544       inf       inf]
+[       inf 0.48109145 0.00395572]
+[       inf 0.44907707        inf]
+meth 8
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 1, 1]
+161228717759069107803304368590834892476
+[0.13483769        inf        inf]
+[1.13505117 1.53024411 0.04329157]
+[       inf 0.08912435 1.93820061]
+meth 9
+3 (array([1]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 1, 1]
+105737101904976832207693669061390660218
+Working directory changed to: Demixer_cpp/input
+100	3
+2028675324	339824703	2852400782
+Working directory changed to: Demixer_cpp/input
+100	3
+375951203	2684159337	3695414240
+reading done0 seconds
+start parallelization
+process output
+[0.12194014        inf        inf]
+[1.19732691 1.3678361  0.04452443]
+[       inf 0.10901921 2.01525486]
+meth 10
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 10, 1]
+74277985604928435589456135048054288049
+[0.22893317 1.38629436        inf]
+[1.00598703 1.38629436 0.01871697]
+[1.1829297  1.38629436        inf]
+meth 11
+3 (array([0]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 10, 1]
+72404964097127529886547444362949613517
+Working directory changed to: Demixer_cpp/input
+100	3
+602010148	3928108633	1746878945
+start parallelization
+process output
+[0.09531355        inf        inf]
+[1.56180667 1.11502905 0.03070444]
+[       inf 0.17671519 2.42262004]
+meth 12
+3 (array([1]),)
+simulate data run= 6
+Working directory changed to: Demixer_cpp/input
+100	3
+378064660	827028092	849015672
+reading done0 seconds
+The file is empty.
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+[0.42371018 1.19719945 1.20791713]
+[1.27048263 0.72983858 1.26013479]
+[1.37860925 1.35229375 0.86550318]
+meth 0
+3 (array([2]),)
+running_SNP_LDA
+38773165819005582593111200909916798041
+[0.34809017 0.70203531 0.04801829]
+[      inf 0.2902488       inf]
+[0.61866655        inf        inf]
+meth 1
+3 (array([0]),)
+running_NMF_SNP_LDA
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+279232398604114342189062368472769033449
+Working directory changed to: Demixer_cpp/input
+100	3
+3823550687	331374789	395189928
+The file is empty.
+start parallelization
+process output
+[0.0163966       inf       inf]
+[       inf 0.03046137        inf]
+[       inf        inf 0.01599758]
+meth 2
+3 (array([2]),)
+Working directory changed to: Demixer_cpp/input
+100	3
+3559606293	188072776	1693927025
+reading done0 seconds
+weight 3 600 150.0 50.0 33.33343333333334 16.666766666666668 1.0
+1.0
+Average 50.0
+running_prior_SNP_LDA 1 0.01
+299217087386497958791458376136161389638
+[0.00661327        inf        inf]
+[       inf 0.00738593        inf]
+[       inf        inf 0.22463937]
+meth 3
+3 (array([2]),)
+running_prior_NMF_SNP_LDA 1 0.01
+22119395255582426618225629186371650599
+Working directory changed to: Demixer_cpp/input
+100	3
+441353339	924769259	3271109588
+Working directory changed to: Demixer_cpp/input
+100	3
+188051585	1329858937	2199284623
+reading done0 seconds
+start parallelization
+process output
+[0.00369883        inf        inf]
+[       inf 0.00586195        inf]
+[       inf        inf 0.00300557]
+meth 4
+3 (array([2]),)
+running_prior_SNP_LDA [0.01, 1, 1] 0.01
+290312127750487157044217120897114455792
+[0.00734188        inf        inf]
+[       inf 0.00763138        inf]
+[       inf        inf 0.23950499]
+meth 5
+3 (array([2]),)
+running_prior_NMF_SNP_LDA [0.01, 1, 1] 0.01
+314890844016144614553628426781504997670
+Working directory changed to: Demixer_cpp/input
+100	3
+1097669345	3926628424	4224952846
+Working directory changed to: Demixer_cpp/input
+100	3
+675355437	4211961819	1134467263
+reading done0 seconds
+start parallelization
+process output
+[0.00401822        inf        inf]
+[       inf 0.00639072        inf]
+[      inf       inf 0.0058858]
+meth 6
+3 (array([2]),)
+running_prior_SNP_LDA [0.01, 10, 1] 0.01
+261471489551910962801108420248325261865
+[0.00232877        inf        inf]
+[       inf 0.00486612        inf]
+[       inf        inf 0.00248368]
+meth 7
+3 (array([2]),)
+running_prior_NMF_SNP_LDA [0.01, 10, 1] 0.01
+277542034808937929538165815089896270137
+Working directory changed to: Demixer_cpp/input
+100	3
+2882330878	3688196791	2953875211
+Working directory changed to: Demixer_cpp/input
+100	3
+2058996027	595409077	2895831293
+reading done0 seconds
+start parallelization
+process output
+[0.00200303        inf        inf]
+[       inf 0.00417535        inf]
+[       inf        inf 0.00117241]
+meth 8
+3 (array([2]),)
+running_prior_SNP_LDA 0.01 [0.01, 1, 1]
+219338980688829384280069999451202905844
+[0.14665014        inf        inf]
+[1.08732248 1.4552431  0.05465173]
+[       inf 0.1002778  1.80628548]
+meth 9
+3 (array([1]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 1, 1]
+321894514205371194257003002881662961369
+Working directory changed to: Demixer_cpp/input
+100	3
+4012496067	3915127587	3820255191
+Working directory changed to: Demixer_cpp/input
+100	3
+41251724	2742791847	649539430
+reading done0 seconds
+start parallelization
+process output
+[0.14761017        inf        inf]
+[1.08058968 0.04855833        inf]
+[       inf 1.90136305 0.08453697]
+meth 10
+3 (array([2]),)
+running_prior_SNP_LDA 0.01 [0.01, 10, 1]
+160991574636465411724208912062417916834
+[0.24515724 1.38629436        inf]
+[0.97357737 1.38629436 0.01613089]
+[1.14104183 1.38629436        inf]
+meth 11
+3 (array([0]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 10, 1]
+84668613252029699483988999368019021123
+Working directory changed to: Demixer_cpp/input
+100	3
+3546626667	33484309	138372680
+start parallelization
+process output
+[0.27419817 1.47321964        inf]
+[0.72504346 1.37706785        inf]
+[       inf 1.39870211 0.01891094]
+meth 12
+3 (array([2]),)
+simulate data run= 7
+Working directory changed to: Demixer_cpp/input
+100	3
+3172432950	2389654775	3021693192
+reading done0 seconds
+The file is empty.
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+[0.43992373 0.86527677 1.25387282]
+[1.25056945 1.28612312 0.61222549]
+[1.3735344  1.06582548 1.37213   ]
+meth 0
+3 (array([1]),)
+running_SNP_LDA
+220031541898717186400769247055904542000
+[0.70270966 0.02562306 0.3112083 ]
+[0.28863226        inf        inf]
+[       inf        inf 0.66895589]
+meth 1
+3 (array([2]),)
+running_NMF_SNP_LDA
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+314804596635621462881914245553264335406
+Working directory changed to: Demixer_cpp/input
+100	3
+2129256833	944767178	3112236422
+The file is empty.
+start parallelization
+process output
+[0.01502021 0.3074981         inf]
+[       inf        inf 0.02032893]
+[       inf 0.66987817        inf]
+meth 2
+3 (array([1]),)
+Working directory changed to: Demixer_cpp/input
+100	3
+1325474107	966798208	82222713
+reading done1 seconds
+weight 3 600 150.0 50.0 33.33343333333334 16.666766666666668 1.0
+1.0
+Average 50.0
+running_prior_SNP_LDA 1 0.01
+258147074971301693618403327920422377215
+[0.00359413        inf        inf]
+[       inf 0.00632396        inf]
+[      inf       inf 0.0106351]
+meth 3
+3 (array([2]),)
+running_prior_NMF_SNP_LDA 1 0.01
+254463547698553143355967172897972706950
+Working directory changed to: Demixer_cpp/input
+100	3
+383945019	1415576835	2159739767
+Working directory changed to: Demixer_cpp/input
+100	3
+1132216662	4226845870	2930775324
+reading done0 seconds
+start parallelization
+process output
+[0.00377306        inf        inf]
+[       inf        inf 0.00641408]
+[       inf 0.00456674        inf]
+meth 4
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 1, 1] 0.01
+152904634100619684642812774390068108951
+[0.0028377       inf       inf]
+[       inf        inf 0.00450815]
+[       inf 0.01926386        inf]
+meth 5
+3 (array([1]),)
+running_prior_NMF_SNP_LDA [0.01, 1, 1] 0.01
+156097925459718777491110723902758232713
+Working directory changed to: Demixer_cpp/input
+100	3
+2737166139	3564109458	903618124
+Working directory changed to: Demixer_cpp/input
+100	3
+2409248493	1738509201	230449275
+reading done0 seconds
+start parallelization
+process output
+[0.00331546        inf        inf]
+[       inf        inf 0.00697266]
+[       inf 0.00625586        inf]
+meth 6
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 10, 1] 0.01
+130350437624067070124133710857504762020
+[0.00147173        inf        inf]
+[       inf 0.00289971        inf]
+[       inf        inf 0.00345839]
+meth 7
+3 (array([2]),)
+running_prior_NMF_SNP_LDA [0.01, 10, 1] 0.01
+81405850591492934525862328054576696628
+Working directory changed to: Demixer_cpp/input
+100	3
+1503001679	774986408	3319626130
+Working directory changed to: Demixer_cpp/input
+100	3
+2134107063	2241087255	2600624796
+reading done0 seconds
+start parallelization
+process output
+[0.0175974       inf       inf]
+[       inf        inf 0.01746205]
+[       inf 0.38569967        inf]
+meth 8
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 1, 1]
+117196449829903677005808050154787099165
+[0.13990613        inf        inf]
+[1.11321761 0.04867573 1.63787318]
+[       inf 1.89830396 0.07346765]
+meth 9
+3 (array([2]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 1, 1]
+236984096529232372297203404655799174349
+Working directory changed to: Demixer_cpp/input
+100	3
+4232036290	983620931	2058568365
+Working directory changed to: Demixer_cpp/input
+100	3
+26539334	8381589	2481903072
+reading done0 seconds
+start parallelization
+process output
+[0.14809215        inf        inf]
+[1.07764712 1.55444405 0.04520047]
+[       inf 0.08433651 1.95093218]
+meth 10
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 10, 1]
+271001958685754008832473732846820622087
+[0.2314569  1.39897854        inf]
+[0.98995989 1.4210089  0.0179328 ]
+[1.19348962 1.36892799        inf]
+meth 11
+3 (array([0]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 10, 1]
+10437092560391100401027945164574573876
+Working directory changed to: Demixer_cpp/input
+100	3
+3948158547	3361989427	2172186832
+start parallelization
+process output
+[0.17694218 1.40802568        inf]
+[1.23645777 1.3774331  0.01479398]
+[1.21537936 1.37761118        inf]
+meth 12
+3 (array([0]),)
+simulate data run= 8
+Working directory changed to: Demixer_cpp/input
+100	3
+4083590783	1468051026	1271801345
+reading done0 seconds
+The file is empty.
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+[0.47301091 0.84853834 1.28836306]
+[1.15928304 1.27213488 0.63659564]
+[1.3582513  1.07529149 1.37102552]
+meth 0
+3 (array([1]),)
+running_SNP_LDA
+73173194994165779246654023600939740494
+[0.35932067 0.7779445  0.09124781]
+[       inf 0.25442047 1.42801708]
+[0.6134787       inf       inf]
+meth 1
+3 (array([0]),)
+running_NMF_SNP_LDA
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+314148385291721689837031431255819878275
+Working directory changed to: Demixer_cpp/input
+100	3
+1072736527	4168266897	3835769585
+The file is empty.
+start parallelization
+process output
+[0.13391171 0.27686116        inf]
+[1.14299276        inf 0.01340746]
+[       inf 0.72494199        inf]
+meth 2
+3 (array([1]),)
+Working directory changed to: Demixer_cpp/input
+100	3
+1853067688	3453508196	1922522537
+reading done0 seconds
+weight 3 600 150.0 50.0 33.33343333333334 16.666766666666668 1.0
+1.0
+Average 50.0
+running_prior_SNP_LDA 1 0.01
+110488734890500444616719474003960772334
+[0.00642646        inf        inf]
+[       inf 0.60605651 0.00771307]
+[       inf 0.34983824        inf]
+meth 3
+3 (array([1]),)
+running_prior_NMF_SNP_LDA 1 0.01
+42089807990471430513383788137358258373
+Working directory changed to: Demixer_cpp/input
+100	3
+1281552005	3917698914	1870611153
+Working directory changed to: Demixer_cpp/input
+100	3
+3242957807	2205943500	612423385
+reading done0 seconds
+start parallelization
+process output
+[0.05441485        inf        inf]
+[1.71160362        inf 0.00561333]
+[       inf 0.00730921        inf]
+meth 4
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 1, 1] 0.01
+164149562968056658224316724832455560870
+[0.0057684       inf       inf]
+[       inf 0.00773714 0.55004014]
+[       inf        inf 0.38982677]
+meth 5
+3 (array([2]),)
+running_prior_NMF_SNP_LDA [0.01, 1, 1] 0.01
+330736922564338457230536518116942601237
+Working directory changed to: Demixer_cpp/input
+100	3
+2287879227	2793588956	868726753
+Working directory changed to: Demixer_cpp/input
+100	3
+1384930475	2700583598	4186202448
+reading done1 seconds
+start parallelization
+process output
+[0.04839265        inf        inf]
+[1.78920838        inf 0.00468851]
+[       inf 0.00893499        inf]
+meth 6
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 10, 1] 0.01
+111226768482846905580024262463630620970
+[0.00362294        inf        inf]
+[       inf 0.43331946 0.0037925 ]
+[       inf 0.49696866        inf]
+meth 7
+3 (array([1]),)
+running_prior_NMF_SNP_LDA [0.01, 10, 1] 0.01
+159836743008200358749939139581653991691
+Working directory changed to: Demixer_cpp/input
+100	3
+2421445068	1092416473	2031466590
+Working directory changed to: Demixer_cpp/input
+100	3
+2429805603	829096197	1822767254
+reading done0 seconds
+start parallelization
+process output
+[0.01528864        inf        inf]
+[       inf        inf 0.01658747]
+[       inf 0.45105788        inf]
+meth 8
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 1, 1]
+11341805052528781919126601702607099572
+[0.16088209        inf        inf]
+[1.02878858 0.0445888  1.57045235]
+[       inf        inf 0.07990997]
+meth 9
+3 (array([2]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 1, 1]
+296974002831787407220786277746848507346
+Working directory changed to: Demixer_cpp/input
+100	3
+148243431	612953437	3054255925
+Working directory changed to: Demixer_cpp/input
+100	3
+1553861064	1974008688	516102641
+reading done0 seconds
+start parallelization
+process output
+[0.1607693       inf       inf]
+[1.02978319 1.51448694 0.04089659]
+[       inf 0.08918046 2.06305659]
+meth 10
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 10, 1]
+34992734553221457129066570806347211459
+[0.24507284 1.40802568        inf]
+[0.93959302 1.40365163 0.01793912]
+[1.20002136 1.37761118        inf]
+meth 11
+3 (array([0]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 10, 1]
+282923565482240403555608759509730009458
+Working directory changed to: Demixer_cpp/input
+100	3
+3028472436	2384152708	436883933
+start parallelization
+process output
+[0.24041781 1.37724722        inf]
+[0.95544694 1.40365163 0.01360606]
+[1.19914382 1.37761118        inf]
+meth 12
+3 (array([0]),)
+simulate data run= 9
+Working directory changed to: Demixer_cpp/input
+100	3
+3273973382	2753907165	2174316407
+reading done1 seconds
+The file is empty.
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+[0.4613028  0.9226708  1.32816454]
+[1.17526649 1.2804561  0.65215597]
+[1.35817271 1.03780876 1.38059878]
+meth 0
+3 (array([1]),)
+running_SNP_LDA
+259476294909158189953592270193923967358
+[0.41661632 0.55073539 0.03159383]
+[0.97878315 0.3860067         inf]
+[0.67102902        inf        inf]
+meth 1
+3 (array([0]),)
+running_NMF_SNP_LDA
+weight 3 600 150.0 0.0 50.0001 0.0001 500001.0
+500001.0
+Average 0.0
+228375880617648692697169902681062225431
+Working directory changed to: Demixer_cpp/input
+100	3
+1650366917	2782200747	669428389
+The file is empty.
+start parallelization
+process output
+[0.05081202 0.37476636        inf]
+[1.82450927        inf 0.01739192]
+[       inf 0.56757538        inf]
+meth 2
+3 (array([1]),)
+Working directory changed to: Demixer_cpp/input
+100	3
+3911262117	4288517782	349149681
+reading done0 seconds
+weight 3 600 150.0 50.0 33.33343333333334 16.666766666666668 1.0
+1.0
+Average 50.0
+running_prior_SNP_LDA 1 0.01
+246360023556878862840388710085748656134
+[0.00572076        inf        inf]
+[       inf 0.00668282 0.73611977]
+[       inf        inf 0.27580282]
+meth 3
+3 (array([2]),)
+running_prior_NMF_SNP_LDA 1 0.01
+123267325721562344000449076013133027229
+Working directory changed to: Demixer_cpp/input
+100	3
+1958585898	3620565065	555684431
+Working directory changed to: Demixer_cpp/input
+100	3
+2419275673	2537786056	2610290170
+reading done0 seconds
+start parallelization
+process output
+[0.03738285        inf        inf]
+[1.96435522        inf 0.00297208]
+[       inf 0.00665413        inf]
+meth 4
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 1, 1] 0.01
+115819049630873441179200033304012034257
+[0.00458442        inf        inf]
+[       inf 0.78829308 0.00443992]
+[       inf 0.25103864        inf]
+meth 5
+3 (array([1]),)
+running_prior_NMF_SNP_LDA [0.01, 1, 1] 0.01
+310351487827008875839704198746550283977
+Working directory changed to: Demixer_cpp/input
+100	3
+1103663645	4269253362	3524153766
+Working directory changed to: Demixer_cpp/input
+100	3
+1856977512	1317615432	2582803241
+reading done0 seconds
+start parallelization
+process output
+[0.04039936        inf        inf]
+[1.90670262        inf 0.00219921]
+[       inf 0.00934483        inf]
+meth 6
+3 (array([1]),)
+running_prior_SNP_LDA [0.01, 10, 1] 0.01
+31319289068182253904137386865595611561
+[0.00201296        inf        inf]
+[      inf 0.0041653       inf]
+[       inf        inf 0.00595738]
+meth 7
+3 (array([2]),)
+running_prior_NMF_SNP_LDA [0.01, 10, 1] 0.01
+48532844084498360228437945886866180216
+Working directory changed to: Demixer_cpp/input
+100	3
+2268471156	1724665621	961914175
+Working directory changed to: Demixer_cpp/input
+100	3
+1114798787	2925742631	990353464
+reading done0 seconds
+start parallelization
+process output
+[0.01368775        inf        inf]
+[       inf        inf 0.01438923]
+[       inf 0.46850157        inf]
+meth 8
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 1, 1]
+35988746646013283356185197870635540361
+[0.17835796        inf        inf]
+[0.96782034 1.67665784 0.04133893]
+[       inf 0.07400841 2.02285106]
+meth 9
+3 (array([1]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 1, 1]
+222857741794213416519718588329766686677
+Working directory changed to: Demixer_cpp/input
+100	3
+1673775413	4250261582	3209877349
+Working directory changed to: Demixer_cpp/input
+100	3
+3278472097	2020664462	1094457561
+reading done0 seconds
+start parallelization
+process output
+[0.17386945        inf        inf]
+[0.98259567 1.50781121 0.04571315]
+[       inf 0.08610896 1.96354322]
+meth 10
+3 (array([1]),)
+running_prior_SNP_LDA 0.01 [0.01, 10, 1]
+225288975166234624348724529297200032154
+[0.25440697 1.39897854        inf]
+[0.91718383 1.4210089  0.01355715]
+[1.18585016 1.36892799        inf]
+meth 11
+3 (array([0]),)
+running_prior_NMF_SNP_LDA 0.01 [0.01, 10, 1]
+160940691422853701830097862510649354190
+Working directory changed to: Demixer_cpp/input
+100	3
+127145921	3154316437	4123519669
+start parallelization
+process output
+[0.25642517 1.38993139        inf]
+[0.91056138 1.38592911 0.01471761]
+[1.18664091 1.4073853         inf]
+meth 12
+3 (array([0]),)
