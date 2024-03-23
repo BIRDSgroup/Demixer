@@ -17,7 +17,8 @@ For generating the 8 different subsets consisting of 200 samples, run ```./exec_
 
 ```for i in {0..11}; do python artsim_data_quant_split.py 7 5 7 $i; done``` - Run 10 iterations of Demixer on ARTmix data with the number of known strains set to 7. (all strains known mode)
 
-```python artsim_data_quant_split.py 2 0 0 1``` - Run 1 Demixer (iteration number 1) on 2-strain data with the number of known strains set to 0. (used for comparing vanilla LDA with Demixer)
+```python artsim_data_quant_split.py 2 0 0 1``` - Run Demixer (iteration number 1) on 2-strain data with the number of known strains set to 0. (used for comparing vanilla LDA with Demixer)
 
 Here, the first, second and third commandline arguments correspond to the number of strains, suffix of output_folder and the number of known strains respectively.
 
+Note that the commands have to be exexuted from within the respective directories.
