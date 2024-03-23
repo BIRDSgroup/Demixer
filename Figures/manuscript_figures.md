@@ -6,16 +6,19 @@ Please find below pointers to code in this repository that can be used to reprod
 
 Fig 3A, 3B -> Fig_3a3b.ipynb
 
-Fig 4B -> Fig_4b.ipynb
+Fig 4B, 4C, 4D -> Fig_4_S3_S4_S5.ipynb
 
-Fig 4C, 5 -> Fig_4c_5.ipynb
+Fig 5B -> Fig_5b.ipynb
 
-Fig 6A, C, D -> Fig_6_8a.ipynb
+Fig 5C -> Fig_5c_S2_S5.ipynb
 
-Fig 6B,7A,7B -> ../clustering.R
+Fig 4A, 6A, 6B -> ../clustering.R
 
-Fig 7D -> snpplot.ipynb (the directories to be changed appropriately)
+Fig 6D, 7B -> snpplot.ipynb (the directories to be changed appropriately)
 
-Fig 8A -> Fig_6_8a.ipynb
+#### Figure to Code mappings for Supplementary text:
 
-Fig 8B -> snpplot.ipynb (the directories to be changed appropriately)
+Fig S2, S5 - Fig_5c_S2_S5.ipynb
+
+Fig S3, S4 - Fig_4_S3_S4_S5.ipynb
+
