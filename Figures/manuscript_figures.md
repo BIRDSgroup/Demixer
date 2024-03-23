@@ -22,3 +22,8 @@ Fig S2, S5 - Fig_5c_S2_S5.ipynb
 
 Fig S3, S4 - Fig_4_S3_S4_S5.ipynb
 
+### Table to Code mappings for Supplementary text:
+
+Table S2 - Fig_4_S3_S4_S5.ipynb
+
+Table S5, S6 - Fig_5b.ipynb
