@@ -37,7 +37,7 @@ The output files resulting from preprocessing will be saved in the finaloutput/o
 ```
 python main_preprocess.py input_.vcf_file output_folder db_name AD_COV
 ```
-Once the preprocessing is done, run the CGS algorithm on the sample-SNP matrix using the executable file Demixer generated from the main.cpp file. It takes one input, the output_folder containing the intermediate files. The model parameters $\theta$ of size $mxk$ and $\phi$ of size $kxn$ will be saved in n_m_z0.dat and n_z_t0.dat files respectively in the output_folder directory. The number of strains $k$ will be determined during preprocessing, $m$ represents the number of samples and $n$ represents the number of SNP-alleles. The proportions of the strains in the samples can be viewed in the finaloutput/output_folder/n_m_z0.txt file.
+Once the preprocessing is done, run the CGS algorithm on the sample-SNP matrix using the executable file Demixer generated from the main.cpp file. It takes one input, the output_folder containing the intermediate files. The model parameters $\theta$ of size $m$ x $k$ and $\phi$ of size $k$ x $n$ will be saved in n_m_z0.dat and n_z_t0.dat files respectively in the output_folder directory. The number of strains $k$ will be determined during preprocessing, $m$ represents the number of samples and $n$ represents the number of SNP-alleles. The proportions of the strains in the samples can be viewed in the finaloutput/output_folder/n_m_z0.txt file.
 ```
 ./Demixer finaloutput/output_folder
 ```
