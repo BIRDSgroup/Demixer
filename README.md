@@ -78,7 +78,7 @@ The [Figures](https://github.com/BIRDSgroup/Demixer/tree/main/Figures) folder ha
 
 The [scripts](https://github.com/BIRDSgroup/Demixer/tree/main/scripts) folder has the codes for running Demixer on a set of samples from .vcf file.
 
-The [simulation](https://github.com/BIRDSgroup/Demixer/tree/main/simulation) has the scripts and other files required for generating simulated data and running Demixer on those datasets.
+The [simulation](https://github.com/BIRDSgroup/Demixer/tree/main/simulation) folder has the scripts and other files required for generating simulated data and running Demixer on those datasets.
 
 The [scripts/db](https://github.com/BIRDSgroup/Demixer/tree/main/scripts/db) folder has the reference database files related to TBprofiler and Quanttb.
 
