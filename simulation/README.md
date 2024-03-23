@@ -9,15 +9,15 @@ The intermediate files will be saved in Demixer_cpp folder. Similarly for 4 stra
 ### Simulation 2
 For generating the reference strains of TBprofiler, run ```python generate_references.py```. Similarly run ```python generate_quanttb_references.py``` for generating the reference strains of QuantTB.
 
-For generating the 8 different subsets consisting of 200 samples, run ```./exec_order.sh```. The shell script simulation2run.sh has to be run for the execution of Demixer on the different subsets of data.
+For generating the 8 different subsets consisting of 200 samples, run ```./exec_order.sh```. 
 
 ### Simulation 3
 
-```python artsim_data_quant_split.py 7 5 5``` - Run Demixer on ARTmix_1 data with the number of known strains set to 5. (few strains known + few unknown mode)
+```for i in {0..11}; do python artsim_data_quant_split.py 7 5 5 $i; done``` - Run 10 iterations of Demixer on ARTmix data with the number of known strains set to 5. (few strains known + few unknown mode)
 
-```python artsim_data_quant_split.py 7 7 7``` - Run Demixer on ARTmix_1 data with the number of known strains set to 7. (all strains known mode)
+```for i in {0..11}; do python artsim_data_quant_split.py 7 5 7 $i; done``` - Run 10 iterations of Demixer on ARTmix data with the number of known strains set to 7. (all strains known mode)
 
-```python artsim_data_quant_split.py 2 0 0``` - Run Demixer on ARTmix_2 data with the number of known strains set to 0. (used for comparing vanilla LDA with Demixer)
+```python artsim_data_quant_split.py 2 0 0 1``` - Run 1 Demixer (iteration number 1) on 2-strain data with the number of known strains set to 0. (used for comparing vanilla LDA with Demixer)
 
 Here, the first, second and third commandline arguments correspond to the number of strains, suffix of output_folder and the number of known strains respectively.
 
