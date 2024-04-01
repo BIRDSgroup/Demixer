@@ -1,6 +1,6 @@
 # Demixer: A multi-sample analysis tool to identify mixed infection
 
-This is the official repository of the Manuscript "Demixer: A guided approach to delineate different strains of a microbial species in a mixed-infection sample" by Brintha V P, and Manikandan Narayanan. 
+This is the official repository of the Manuscript "Demixer: A probabilistic generative model to delineate different strains of a microbial species in a mixed infection sample" by Brintha V P, and Manikandan Narayanan. 
 
 ## License preamble 
 
