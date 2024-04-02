@@ -254,13 +254,13 @@ def thresh_conf(dir,test=False):
                                 Demixer_result.append(["Non-Mix"])
 
                             else:
-                                if('_' in final_strains):
+                                if(any(strain.startswith("d_") for strain in final_strains)):
 
                                     if(snp_conf['long_bar'][i]>thresholds[1] ):          #90 for cryptic, 250 for Malawi
 
                                         Demixer_result.append(["Mix"])   
                                     else:
-                                        final_strains_copy=[x for x in final_strains if x !='_']
+                                        final_strains_copy=[x for x in final_strains if not x.startswith('d_')]
 
                                         if(len(final_strains_copy)==1):
                                             Demixer_result.append(["Non-Mix"])
@@ -308,5 +308,3 @@ def thresh_conf(dir,test=False):
         writer2.writerows(final_w)
         writer3.writerows(write_csvfile(Demixer_result))
         pd.DataFrame(conf).to_csv(dir+'confidence_new.csv',index='False')
-
-
