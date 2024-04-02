@@ -49,6 +49,8 @@ The folder finaloutput has the subfolders corresponding to each run of Demixer o
 python postprocessing.py finaloutput/output_folder/ False
 ```
 
+The postprocessing results reported in the manuscript are obtained by running the above command using the default value for the third parameter.
+
 ### Testing new samples in .vcf file using CRyPTIC-trained parameters
 To test new samples, run the below commands to generate the sample-SNP matrix, run CGS algorithm and postprocessing. It takes 3 input parameters: input_.vcf_file, db_name and AD_COV. The intermediate and output files will be saved in finaloutput/test directory.
 ```
