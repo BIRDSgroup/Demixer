@@ -1,6 +1,6 @@
 # Demixer: A multi-sample analysis tool to identify mixed infection
 
-This is the official repository of the Manuscript "Demixer: A probabilistic generative model to delineate different strains of a microbial species in a mixed infection sample" by Brintha V P, and Manikandan Narayanan. 
+This is the official repository of the Manuscript "Demixer: A probabilistic generative model to delineate different strains of a microbial species in a mixed infection sample" by Brintha V P, and Manikandan Narayanan. Please note that the [Figures](https://github.com/BIRDSgroup/Demixer/tree/main/Figures) folder has the codes for reproducing the figures in the manuscript. 
 
 ## License preamble 
 
@@ -74,7 +74,7 @@ Note that all the relavant codes are in the scripts folder and the above command
 
 ## Folder Description
 
-The [Figures](https://github.com/BIRDSgroup/Demixer/tree/main/Figures) folder has the codes for generating the figures in the manuscript. 
+The [Figures](https://github.com/BIRDSgroup/Demixer/tree/main/Figures) folder has the codes for reproducing the figures in the manuscript. 
 
 The [scripts](https://github.com/BIRDSgroup/Demixer/tree/main/scripts) folder has the codes for running Demixer on a set of samples from .vcf file.
 
