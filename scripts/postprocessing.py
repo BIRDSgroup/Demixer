@@ -17,7 +17,7 @@ from setargs import *
 
 warnings.filterwarnings("ignore")
 
-def mutations(n_z_t):
+def mutations(n_z_t,denovo_merge=True):
         
     subset=pd.read_csv(dir+'subset.csv')
     
@@ -27,7 +27,7 @@ def mutations(n_z_t):
     true_n_z_t = np.empty((col,c))
     true_n_z_t[:] = np.NaN
     l=len(subset.columns.values)
-    
+    d_count=0;
     for m in range(0,l):
             variant=list(subset.iloc[:,m])
             
@@ -85,7 +85,11 @@ def mutations(n_z_t):
                 #for ind in indice:
                 diverg[incre]=subset.columns.values[indice[-1]]
             else:
-                diverg[incre]='_'
+                if(denovo_merge==True):
+                    diverg[incre]='d_'
+                else:
+                    diverg[incre]='d_'+str(d_count)
+                    d_count+=1
             #diverg[incre]=diverg[incre][:-1]
             incre+=1
     
@@ -247,7 +251,10 @@ for i in range(1,2):
     pd.DataFrame(np.around(diverg_m,3)).to_csv(dir+'kldiverg.csv',index=False) 
     
     '''
-    diverg=mutations(n_z_t)
+    if(len(sys.argv)==3):
+        diverg=mutations(n_z_t,sys.argv[2])
+    else:
+        diverg=mutations(n_z_t)
     
 
 data=pd.DataFrame(Docs_1,columns=Docs_col_name)
