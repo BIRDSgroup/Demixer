@@ -17,9 +17,9 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 ## Installation
 
-See ```requirements.txt``` file for the list of dependencies. The C++ program is written in compliance with the C++11 standard.
+See ```requirements.txt``` file for the list of dependencies. The main program Demixer is implemented using C++, and written in compliance with the C++11 standard. Python scripts used for pre-processing of the data are also provided. 
 
-Downland all the required files using the below command.
+Download all the required files using the below command.
 ```
 git clone git@github.com:BIRDSgroup/Demixer.git
 ```
