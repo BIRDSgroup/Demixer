@@ -46,7 +46,8 @@ Run the command ```chmod +x Demixer```, if running the above command for the fir
 The folder finaloutput has the subfolders corresponding to each run of Demixer on different .vcf files. After the running of CGS algorithm, the inferred parameters need to be postprocessed by running the following command. The third parameter takes the value True/False and by default it is set to **False** (no merging of 2 or more *de novo* strains). The output files resulting from postprocessing will be saved in the finaloutput/output_folder. The inferred proportions, lineage names, confidence and mixed/non-mixed call for each sample are saved in the files prop.csv, lineage.csv, confidence_new.csv  and Mixpred.csv respectively. Also the mode ($o_m$) and frequency of mode ($f_m$) for each sample determined using the SNP plot is saved in the file snp_plot_conf.csv respectively.
 
 ```
-python postprocessing.py finaloutput/output_folder/ 
+python postprocessing.py finaloutput/output_folder/
+python postprocessing.py finaloutput/output_folder/ True (allows merging of *de novo* strains)    
 ```
 
 The postprocessing results reported in the manuscript are obtained by running the above command using the default value for the third parameter.
