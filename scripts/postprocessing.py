@@ -17,7 +17,7 @@ from setargs import *
 
 warnings.filterwarnings("ignore")
 
-def mutations(n_z_t,denovo_merge=True):
+def mutations(n_z_t,denovo_merge=False):
         
     subset=pd.read_csv(dir+'subset.csv')
     
