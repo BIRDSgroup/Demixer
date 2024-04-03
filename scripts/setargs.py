@@ -129,14 +129,7 @@ def plot_prop_major(data,snp1,snp2,l):
     max_count_bin = np.argmax(data)
 
     max_count = data[max_count_bin]
-    
-    #plt.figure(figsize=(16, 10))
-    
-    # Plot histogram for reference
-    #histogram = sns.histplot(prop1, bins=10, )
-    mode=stats.mode(np.around(prop1,2))
-    #data, bins, _ = plt.hist(prop1, bins=10,)
-    
+   
     bin_index = np.argsort(data)[-1:][::-1]
     
     freq=[]
@@ -151,6 +144,8 @@ def plot_prop_major(data,snp1,snp2,l):
         m=np.mean(freq)
     else:
         m= 0
+    prop1=np.array(prop1)
+    mode=stats.mode(np.around((prop1[(prop1 >= bins[bin_index][0]) & (prop1 < bins[bin_index+1][0])]),2))
        
     if len(mode[0])>0:
         return mode[0][0],max_count,m
@@ -308,3 +303,5 @@ def thresh_conf(dir,test=False):
         writer2.writerows(final_w)
         writer3.writerows(write_csvfile(Demixer_result))
         pd.DataFrame(conf).to_csv(dir+'confidence_new.csv',index='False')
+
+
