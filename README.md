@@ -21,7 +21,7 @@ See ```requirements.txt``` file for the list of dependencies. The main program D
 
 Download all the required files using the below command.
 ```
-git clone git@github.com:BIRDSgroup/Demixer.git
+git clone https://github.com/BIRDSgroup/Demixer.git
 ```
 
 ## Usage
