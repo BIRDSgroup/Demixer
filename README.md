@@ -53,7 +53,7 @@ python postprocessing.py finaloutput/output_folder/ True (allows merging of *de 
 The postprocessing results reported in the manuscript are obtained by running the above command using the default value for the third parameter.
 
 ### Testing new samples in .vcf file using CRyPTIC-trained parameters
-To test new samples, run the below commands to generate the sample-SNP matrix, run CGS algorithm and postprocessing. Requires 3 input parameters: input_.vcf_file, db_name and AD_COV. The intermediate and output files will be saved in finaloutput/test directory. A sample .vcf file for testing and the trained $\phi$ parameter can be downloaded from this [link](https://drive.google.com/drive/folders/1-zzEhnMofpfUvxH17KaJ23qp_SJzu9R4?usp=drive_link). Move the n_z_t0.dat file ($\phi$ parameter) to *scripts/finaloutput/Cryptic_rerun* folder. For running this file set db_name to **tbprof** and AD_COV to **2**.
+To test new samples, run the below commands to generate the sample-SNP matrix, run CGS algorithm and postprocessing. Requires 3 input parameters: input_.vcf_file, db_name and AD_COV. The intermediate and output files will be saved in finaloutput/test directory. A sample .vcf file for testing and the trained $\phi$ parameter can be downloaded from this [link](https://drive.google.com/drive/folders/1-zzEhnMofpfUvxH17KaJ23qp_SJzu9R4?usp=drive_link). Move the n_z_t0.dat file ($\phi$ parameter) to *scripts/finaloutput/Cryptic_rerun* folder. For running the downloaded .vcf file, set db_name to **tbprof** and AD_COV to **2**.
 ```
 python test.py input_.vcf_file test db_name AD_COV
 ./test_Demixer;
