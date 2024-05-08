@@ -27,7 +27,7 @@ git clone https://github.com/BIRDSgroup/Demixer.git
 ## Usage
 
 ### Running Demixer on a set of samples using .vcf input
-Demixer takes a .vcf file as input and processes it to generate the Sample-SNP matrix. For preprocessing, the below command has to be run. It takes 4 input parameters. 
+Demixer takes a .vcf/.vcf.gz file as input and processes it to generate the Sample-SNP matrix. For preprocessing, the below command has to be run. It takes 4 input parameters. 
 - input_.vcf_file (multisample .vcf file)
 - output_folder (the folder name in which the intermediate files are to be saved)
 - db_name (the reference database name: tbprof, quanttb or covid)
@@ -50,7 +50,7 @@ python postprocessing.py finaloutput/output_folder/
 python postprocessing.py finaloutput/output_folder/ True (allows merging of *de novo* strains)    
 ```
 
-The postprocessing results reported in the manuscript are obtained by running the above command using the default value for the third parameter.
+The postprocessing results reported in the manuscript are obtained by running the above command using the default value for the third parameter. The merged samples of invitro dataset (invitro.vcf.gz) can be downloaded from this [link](https://drive.google.com/drive/folders/1-zzEhnMofpfUvxH17KaJ23qp_SJzu9R4?usp=drive_link). For running this file, set db_name to **tbprof** and AD_COV to **2**.
 
 ### Testing new samples in .vcf file using CRyPTIC-trained parameters
 To test new samples, run the below commands to generate the sample-SNP matrix, run CGS algorithm and postprocessing. Requires 3 input parameters: input_.vcf_file, db_name and AD_COV. The intermediate and output files will be saved in finaloutput/test directory. A sample .vcf file for testing and the trained $\phi$ parameter can be downloaded from this [link](https://drive.google.com/drive/folders/1-zzEhnMofpfUvxH17KaJ23qp_SJzu9R4?usp=drive_link). Move the n_z_t0.dat file ($\phi$ parameter) to *scripts/finaloutput/Cryptic_rerun* folder. For running the downloaded .vcf file, set db_name to **tbprof** and AD_COV to **2**.
