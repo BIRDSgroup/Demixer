@@ -14,6 +14,22 @@ For generating the reference strains of TBprofiler, run ```python generate_refer
 
 For generating the 8 different subsets consisting of 200 samples, run ```./exec_order.sh```. 
 
+Run ```./deep_training_dataset.sh``` for generating artificial reads for training DeepMicrobes and DNABERT-S and then execute the below shell script for extracting the reads with mutations.
+
+```
+for i in *.sra_1.fastq; do
+id=$(echo $i| cut -d "." -f 1);
+bcftools view -v snps ${id}.vcf.gz |  bcftools filter -i 'QUAL>=20' > snps_only.vcf ;
+convert2bed  -i vcf < snps_only.vcf > data.bed;
+bedtools intersect -a ${id}.sorted_dedup_reads.bam -b data.bed -wa > output_reads.bam;
+samtools view -h output_reads.bam > output_reads.sam;
+samtools fastq output_reads.sam > output.fastq;
+seqtk seq -A  output.fastq > ${id}.fasta;
+rm snps_only.vcf; rm data.bed; rm output_reads.bam; rm output_reads.sam; rm output.fastq;
+done
+
+```
+
 ### Simulation 3
 
 ```for i in {0..11}; do python artsim_data_quant_split.py 7 5 5 $i; done``` - Run 10 iterations of Demixer on ARTmix data with the number of known strains set to 5. (few strains known + few unknown mode)
