@@ -42,8 +42,8 @@ def output_to_file(dict_list,foldername,D):
     avg=float(total)/count 
     
     if(D!=0):
-        a=(setargs.Docs_1.shape[1]/4-avg)/setargs.K+0.0001 #for synthetic dataset
-        #a=(setargs.Docs_1.shape[1]/2-avg)/setargs.K+0.0001
+        #a=(setargs.Docs_1.shape[1]/4-avg)/setargs.K+0.0001 #for synthetic dataset
+        a=(setargs.Docs_1.shape[1]/2-avg)/setargs.K+0.0001
         b=avg/D+0.0001
         weight=np.floor(a/b);
         print("weight",D, setargs.Docs_1.shape[1],setargs.Docs_1.shape[1]/4,avg,a,b,weight);
