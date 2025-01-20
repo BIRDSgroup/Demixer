@@ -6,6 +6,9 @@ This folder has the scripts used for generating the different synthetic data and
 Run ```python simulate_dataset.py 3``` for generating 10 subsets of data with 3 strains in each sample, followed by the execution of Demixer on each subset. 
 The intermediate files will be saved in Demixer_cpp folder. Similarly for 4 strain data, run ```python simulate_dataset.py 4```.
 
+Run ```python simulate_dataset_ablation.py 3``` for performing ablation analysis by generating 10 subsets of data with 3 strains in each sample.
+Similarly for 4 strain data, run ```python simulate_dataset_ablation.py 4```.
+
 ### Simulation 2
 For generating the reference strains of TBprofiler, run ```python generate_references.py```. Similarly run ```python generate_quanttb_references.py``` for generating the reference strains of QuantTB.
 
