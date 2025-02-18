@@ -39,4 +39,4 @@ done
 
 Here, the first, second and third commandline arguments correspond to the number of strains, suffix of output_folder and the number of known strains respectively.
 
-Note that the commands have to be exexuted from within the respective directories.
+Note that the commands have to be executed from within the respective directories.
