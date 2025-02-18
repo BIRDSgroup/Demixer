@@ -1,3 +1,5 @@
+#Code for generating the 300 read sequences for comparing Demixer with DL models 
+
 import sys
 from vcf_preprocess import*
 import pickle
