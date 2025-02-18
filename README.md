@@ -83,7 +83,11 @@ The [scripts](https://github.com/BIRDSgroup/Demixer/tree/main/scripts) folder ha
 
 The [simulation](https://github.com/BIRDSgroup/Demixer/tree/main/simulation) folder has the scripts and other files required for generating simulated data and running Demixer on those datasets.
 
-The [scripts/db](https://github.com/BIRDSgroup/Demixer/tree/main/scripts/db) folder has the reference database files related to TBprofiler and Quanttb.
+The [scripts/db](https://github.com/BIRDSgroup/Demixer/tree/main/scripts/db) folder has the reference database files related to TBprofiler, Quanttb and comparison of Deep Learning related methods.
+
+The [scripts/ablation](https://github.com/BIRDSgroup/Demixer/tree/main/scripts/ablation) folder has the files required for reproducing manuscript figures related to ablation study.
+
+The [scripts/Deep_train](https://github.com/BIRDSgroup/Demixer/tree/main/scripts/Deep_train) folder has the files required for reproducing manuscript figures related to the comparison of embedding-based methods.
 
 The [scripts/finaloutput](https://github.com/BIRDSgroup/Demixer/tree/main/scripts/finaloutput) folder has the sub-folders containing the intermediate files related to each run. 
 
