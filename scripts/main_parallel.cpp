@@ -7,7 +7,7 @@ int main(int argc,char* argv[])
     newWorkingDirectory=argv[1];
     cout<<newWorkingDirectory; 
     
-    omp_set_num_threads(std::atoi(argv[2]));
+    omp_set_num_threads(std::atoi(argv[2]));    //number of cores to be passed
     set();
     construct_dict();
 
