@@ -1,3 +1,5 @@
+#generate art simulator generated reads for traing DL methods
+
 #!/bin/bash
 
 #ref: Splitstrains code
@@ -17,8 +19,6 @@ for s in ${my_array[@]}; do
         id=$(echo $strain | sed 's/\.fasta$//'| cut -d "/" -f 2)
         echo $id
         art_illumina -ss HS25 -sam -i $strain -l 150 -p -o $o_folder/${id}_R -na -f 50 -m 200 -s 10 -s 0.5 -ef;
-
-       
 done
 
 
