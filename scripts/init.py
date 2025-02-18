@@ -42,17 +42,15 @@ def output_to_file(dict_list,foldername,D):
     avg=float(total)/count 
     
     if(D!=0):
-        #a=(setargs.Docs_1.shape[1]/4-avg)/setargs.K+0.0001 #for synthetic dataset
+        #a=(setargs.Docs_1.shape[1]/4-avg)/setargs.K+0.0001 #for synthetic dataset ARTTBmix1,2 and ARTmix
         a=(setargs.Docs_1.shape[1]/2-avg)/setargs.K+0.0001
         b=avg/D+0.0001
         weight=np.floor(a/b);
-        print("weight",D, setargs.Docs_1.shape[1],setargs.Docs_1.shape[1]/4,avg,a,b,weight);
+        print("weight",D, setargs.Docs_1.shape[1],setargs.Docs_1.shape[1]/2,avg,a,b,weight);
         if(a<b):
             weight=1
     else:
         weight=0
-
-    weight=0
     
         
     print(weight)
@@ -92,8 +90,17 @@ def construct_dict(m,synthetic,fl,variants=pd.DataFrame()):
     doc=list(setargs.Docs_1[m])
     col_name=setargs.Docs_col_name
     if(fl==1):
+         #######uncommented for ablation study################################
         variants_1=pd.read_csv('finaloutput/'+setargs.strain+'/subset.csv')
         variants_2=pd.read_csv('finaloutput/'+setargs.strain+'/subset1.csv')
+        
+        ######tobe removed###################################
+        
+        #variants_1=pd.DataFrame()
+        #variants_2=pd.DataFrame()
+        
+        ####################################################################
+        
         s_name=dict(zip(variants_2.columns.values,range(len(variants_2.columns))))
     else:
         variants_1=variants

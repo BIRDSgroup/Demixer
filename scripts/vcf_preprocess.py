@@ -16,7 +16,9 @@ ppe_end=ppe['end'].values;
 #print(genotype[((genotype['POS']>=ppe_start[3])&(genotype['POS']<=ppe_end[3])==True)])
 
 variants=pd.read_csv('db/'+sys.argv[3]+'_snpset.csv')        #for invitro
-    
+ 
+#variants=pd.DataFrame()   #included for ablation study - to be removed
+
 seeds=variants.stack().values    
 
 def process_row(i,ref,length,arg=2):
@@ -59,7 +61,7 @@ def cal_genotype(filename):
                 end.append(int(line_arr[4]));
     genotype=allel.vcf_to_dataframe(filename,fields=['POS','REF','ALT','is_snp']);  
     
-    print('hello');
+    
     for i in range(0,len(start)-1):  
         genotype=genotype[((genotype['POS']>end[i])&(genotype['POS']<start[i+1])==False)]
         #print(len(genotype.index))

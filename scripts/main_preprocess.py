@@ -21,14 +21,8 @@ import numpy as np;
 import random
 from setargs import*
 import psutil
-#from line_profiler import LineProfiler
+import pickle
 
-#lprofiler = LineProfiler()
-
-#os.chdir('/data/users/CS18D017/LVM_Multistrain/Preprocessing/Demixer/Demixer-main/')
-
-
-            
 
 #Function to reset the variables
 def reset():
@@ -86,13 +80,9 @@ def construct_dict(doc,synthetic=False):
 
             
             flat_list = [int(c) for c,xs in enumerate(doc) if xs!=0]
-            #print(flat_list)
-            #flat_list=doc
             
             v_row,v_col=variants_1.shape    
             variants_dict={}
-            
-            #variants_dict=Dict.empty(key_type=types.int32, value_type=nb.typed.List.empty_list(nb.types.int8),)
             
             for i in range(v_col-1,-1,-1):
                 l1=variants_1.iloc[:,i]  
@@ -128,7 +118,6 @@ def construct_dict(doc,synthetic=False):
 
                                         else:
                                             variants_dict.setdefault(c1, [])
-                                            #if(i not in variants_dict.get(int(c1))):
                                             variants_dict[int(c1)].append(i);   
                                             for subv in range(j+2,len(variant_name),2):
                                                 try:
@@ -252,8 +241,9 @@ if __name__ == '__main__':
     variants_dict={}
      
     variants=pd.read_csv('db/'+sys.argv[3]+'_snpset.csv')        #for invitro
-    #variants=pd.read_csv("finaloutput/"+setargs.strain+"/subset1_new.csv") 
     
+    
+    #variants=pd.DataFrame()   #included for ablation study - to be removed
     
     (v_row, v_col)=variants.shape
     
@@ -266,8 +256,10 @@ if __name__ == '__main__':
         sum=0;
         print('variants dictionary')
 
-        variants_1=pd.read_csv('db/'+sys.argv[3]+'_unique.csv')   #tick  for invitro
-        #variants_1=pd.read_csv("finaloutput/"+setargs.strain+"/subset_new.csv") 
+        variants_1=pd.read_csv('db/'+sys.argv[3]+'_unique.csv')  
+      
+        
+        #variants_1=pd.DataFrame()   #included for ablation study - to be removed
         
         variants_subset=pd.DataFrame();
         variant_ids_subset=pd.DataFrame();
@@ -349,7 +341,12 @@ if __name__ == '__main__':
 
         print(setargs.V,'max',np.max(setargs.Docs_1))
        
-        setargs.K=count+2;
+        #############ablation study need to be uncommented and commented###########
+       
+        setargs.K=count+2;  
+        #setargs.K=30       #invitro K - higher value
+        #setargs.K=19       #invitro K - set
+        ##########################################################################
 
         with open('finaloutput/'+setargs.strain+'/'+'config.txt', 'w') as file:
             file.write(str(len(setargs.Docs_1)) + ' '+str(setargs.K)+' '+str(setargs.V)+' '+str(x1)+' '+str(x2));
@@ -372,16 +369,58 @@ if __name__ == '__main__':
     
         setargs.idf=np.array(setargs.idf)
         setargs.idf=setargs.idf.astype("int16")
-        setargs.idf[setargs.idf>0]=weight
+        
+       
+        
+        ############ manuscript revision ablation study##############
+        setargs.idf[setargs.idf>0]=weight           #uncomment otherwise
+        #setargs.idf[setargs.idf>0]=0
+        ###############################################
+        
+        
         setargs.alpha=np.full(setargs.K,1,dtype='<f4')
         setargs.beta=np.full(setargs.K,0.01,dtype='<f4')
         write_datfile("finaloutput/"+setargs.strain+"/idf.dat",setargs.idf)
         write_datfile("finaloutput/"+setargs.strain+"/alpha.dat",setargs.alpha)
         write_datfile("finaloutput/"+setargs.strain+"/beta.dat",setargs.beta)
-        
-        print(i,time.time()-st)
+        print("time",time.time()-st)
         process = psutil.Process()
         memory_info = process.memory_info()  
         memory_used_gb = memory_info.rss / (1024 ** 3)
         print(f"Memory used: {memory_used_gb:.2f} GB")          
       
+        '''
+        #######parallelcheck
+        
+        cores=[1,2,4,8,16,32,64]
+        timelist=[]
+        for i in cores:
+            st=time.time()
+            os.system("./ablation/Demixer_parallel1 finaloutput/parallel1 "+str(i))    
+            timelist.append(time.time()-st)
+        with open('invitro_cores_list1.pkl', 'wb') as file:
+            pickle.dump(timelist, file)    
+        print(timelist)
+        
+
+        
+        timelist=[]
+        for i in cores:
+            st=time.time()
+            os.system("./ablation/Demixer_parallel4 finaloutput/parallel4 "+str(i))    
+            timelist.append(time.time()-st)
+        with open('invitro_cores_list4.pkl', 'wb') as file:
+            pickle.dump(timelist, file)    
+        print(timelist)
+            
+        timelist=[]
+        for i in cores:
+            st=time.time()
+            os.system("./ablation/Demixer_parallel5 finaloutput/parallel5 "+str(i))    
+            timelist.append(time.time()-st)
+        with open('invitro_cores_list5.pkl', 'wb') as file:
+            pickle.dump(timelist, file)    
+        print(timelist)
+       
+        '''
+        
