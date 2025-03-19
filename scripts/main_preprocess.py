@@ -152,7 +152,11 @@ if __name__ == '__main__':
         genotype=allel.vcf_to_dataframe(filename,fields=['POS','REF','ALT','is_snp']);
     else:
         genotype=cal_genotype(filename);
-    
+
+    if(len(sys.argv)==5):
+        mut_count=5
+    else:
+        mut_count=int(sys.argv[5])
     
     
     genotype=genotype[genotype['is_snp']==True]
@@ -292,7 +296,7 @@ if __name__ == '__main__':
                             sub_list1.append(setargs.cols_name.get(l2[j]))
                             sub_ids_list1.append(l2[j])
 
-                    if((len(l1)>=5 and len(sub_list)>=5)):      
+                    if((len(l1)>=mut_count and len(sub_list)>=mut_count)):      
 
                         variants_subset = pd.concat([variants_subset,pd.Series(sub_list)], ignore_index=True, axis=1)
                         variants_subset1 = pd.concat([variants_subset1,pd.Series(sub_list1)], ignore_index=True, axis=1)
