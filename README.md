@@ -32,7 +32,7 @@ Demixer takes a .vcf/.vcf.gz file as input and processes it to generate the Samp
 - output_folder (the folder name in which the intermediate files are to be saved)
 - db_name (the reference database name: tbprof, quanttb or covid)
 - AD_COV  (.vcf type: 2 [for calldata/AD] or 3[for calldata/COV])
-- the number of confidence mutations required for a strain to be considered in the analysis (optional, default-5)
+- the number of confidence mutations required for a strain to be considered in the analysis (optional, default: 5)
 
 The output files resulting from preprocessing will be saved in the finaloutput/output_folder. The sample-SNP matrix will be saved in Docs_int_onlySnpgap.dat file. By default, the new folder output_folder will be created within the finaloutput folder.
 ```
