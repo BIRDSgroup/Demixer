@@ -1,6 +1,6 @@
 ## Simulation
 
-This folder has the scripts used for generating the different synthetic data and running Demixer on them.
+This folder has the scripts used for generating the different synthetic data and running Demixer on them. If the number of samples are in hundreds (or < 100), then freebayes can also be run with -gvcf and --report-monomorphic options instead of variantcalling twice. Subsequently, positions without an alternate allele in any sample can be removed using bcftools with the AC==0 filter.
 
 ### Simulation 1
 Run ```python simulate_dataset.py 3``` for generating 10 subsets of data with 3 strains in each sample, followed by the execution of Demixer on each subset. 
